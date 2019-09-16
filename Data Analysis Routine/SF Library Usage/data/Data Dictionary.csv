@@ -1,0 +1,15 @@
+Field Name,Data Type,Definition,Notes (optional)
+Patron Type Code,Numeric,"Type of patron record (adult, teen, child, senior, etc.) Some blank.",
+Patron Type Definition,Text,"Description of patron (adult, teen, child, senior, etc.)",
+Total Checkouts,Numeric,Total number of items the patron has checked out from the library since the record was created.,
+Total Renewals,Numeric,Total number of times the patron has renewed checked-out items.,
+Birth Date,Text,"Age ranges: 0 to 9 years, 10 to 19 years, 20 to 24 years, 25 to 34 years, 35 to 44 years, 45 to 54 years, 55 to 59 years, 60 to 64 years 65 to 74 years, 75 years and over. Some blank.",
+Home Library Code,Text,Default value indicates the branch library where the patron was originally registered. Patrons can change this value if they change their preferred branch.,
+Home Library Definition,Text,Description of the branch library where the patron was originally registered.,
+Circulation Active Year,Text,"Year the patron last checked out library materials, or last logged into the library’s subscription databases from a computer outside the library.",
+Notice Preference Code,Text,"This field is used to indicate the patron’s preferred method of receiving library notices (email, print, phone). Some blank.",
+Notice Preference Definition,Text,Description of the patron’s preferred method of receiving library notices.,
+Provided Email Address,Boolean (True/False),Indicates whether the patron provided an email address,
+Year Patron Registered,Text,Year patron registered with library system. No dates prior to 2003 due to system migration.,
+Outside of County,Boolean (True/False),"If a patron's home address is not in San Francisco, then flagged as true, otherwise false.",
+Supervisor District,Numeric,Based on patron address: San Francisco Supervisor District.,"This is an automated field, please note that if ""Outside of County"" is true, then there will be no supervisor district. Also, if the input address was not well-formed, the supervisor district will be blank."
