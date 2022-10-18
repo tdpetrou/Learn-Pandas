@@ -1,0 +1,28 @@
+column_name,description
+instnm,Institution Name
+city,City Location
+stabbr,State Abbreviation
+hbcu,Historically Black College or University
+menonly,0/1 Men Only
+womenonly,0/1 Women only
+relaffil,0/1 Religious Affiliation
+satvrmid,SAT Verbal Median
+satmtmid,SAT Math Median
+distanceonly,Distance Education Only
+ugds,Undergraduate Enrollment
+ugds_white,Percent Undergrad White
+ugds_black,Percent Undergrad Black
+ugds_hisp,Percent Undergrad Hispanic
+ugds_asian,Percent Undergrad Asian
+ugds_aian,Percent Undergrad American Indian/Alaskan Native
+ugds_nhpi,Percent Undergrad Native Hawaiian/Pacific Islander
+ugds_2mor,Percent Undergrad 2 or more races
+ugds_nra,Percent Undergrad non-resident aliens
+ugds_unkn,Percent Undergrad race unknown
+pptug_ef,Percent Students part-time
+curroper,0/1 Currently Operating
+pctpell,Percent Students with Pell grant
+pctfloan,Percent Students with federal loan
+ug25abv,Percent Students Older than 25
+md_earn_wne_p10,Median Earnings 10 years after enrollment
+grad_debt_mdn_supp,Median debt of completers

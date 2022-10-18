@@ -1,0 +1,115 @@
+CPT Major Category,CPT Minor Category,Start Code,End Code
+Anesthesia,head,100,222
+Anesthesia,neck,300,352
+Anesthesia,thorax,400,474
+Anesthesia,intrathoracic,500,580
+Anesthesia,spineandspinal cord,600,670
+Anesthesia,upper abdomen,700,797
+Anesthesia,lower abdomen,800,882
+Anesthesia,perineum,902,952
+Anesthesia,pelvis(except hip),1112,1190
+Anesthesia,upper leg (except knee),1200,1274
+Anesthesia,knee and popliteal area,1320,1444
+Anesthesia,lower leg (below knee),1462,1522
+Anesthesia,shoulderandaxillary,1610,1682
+Anesthesia,upper arm and elbow,1710,1782
+Anesthesia,"forearm, wrist and hand",1810,1860
+Anesthesia,radiological procedures,1916,1936
+Anesthesia,burn excisions or debridement,1951,1953
+Anesthesia,obstetric,1958,1969
+Anesthesia,other procedures,1990,1999
+Surgery,general,10000,10022
+Surgery,integumentary system,10040,19499
+Surgery,musculoskeletal system,20000,29999
+Surgery,respiratory system,30000,32999
+Surgery,cardiovascular system,33010,37799
+Surgery,hemicandlymphatic systems,38100,38999
+Surgery,mediastinumanddiaphragm,39000,39599
+Surgery,digestive system,40490,49999
+Surgery,urinary system,50010,53899
+Surgery,male genital system,54000,55899
+Surgery,reproductive systemandintersex,55920,55980
+Surgery,female genital system,56405,58999
+Surgery,maternity careanddelivery,59000,59899
+Surgery,endocrine system,60000,60699
+Surgery,nervous system,61000,64999
+Surgery,eyeandocular adnexa,65091,68899
+Surgery,auditory system,69000,69979
+Radiology,diagnostic radiology,70000,76499
+Radiology,diagnostic ultrasound,76500,76999
+Radiology,radiologic guidance,77001,77032
+Radiology,breastmammography,77051,77059
+Radiology,bone/joint studies,77071,77084
+Radiology,radiation oncology,77261,77999
+Radiology,nuclear medicine,78000,79999
+Pathology and Laboratory,organ 'Bold text'or disease-oriented panels,80000,80076
+Pathology and Laboratory,drug testing,80100,80103
+Pathology and Laboratory,therapeutic drug assays,80150,80299
+Pathology and Laboratory,evocative/suppression testing,80400,80440
+Pathology and Laboratory,consultations (clinical pathology),80500,80502
+Pathology and Laboratory,urinalysis,81000,81099
+Pathology and Laboratory,chemistry,82000,84999
+Pathology and Laboratory,hematologyandcoagulation,85002,85999
+Pathology and Laboratory,immunology,86000,86849
+Pathology and Laboratory,transfusion medicine,86850,86999
+Pathology and Laboratory,microbiology,87001,87999
+Pathology and Laboratory,anatomic pathology (postmortem),88000,88099
+Pathology and Laboratory,cytopathology,88104,88199
+Pathology and Laboratory,cytogenetic studies,88230,88299
+Pathology and Laboratory,surgical pathology,88300,88399
+Pathology and Laboratory,in vivo (transcutaneous) lab procedures,88720,88741
+Pathology and Laboratory,other procedures,89049,89240
+Pathology and Laboratory,reproductive medicine procedures,89250,89398
+Medicine,"immune globulins,serumorrecombinant prods",90281,90399
+Medicine,immunization administrationforvaccines/toxoids,90465,90474
+Medicine,"vaccines, toxoids",90476,90749
+Medicine,psychiatry,90801,90899
+Medicine,biofeedback,90901,90911
+Medicine,dialysis,90935,90999
+Medicine,gastroenterology,91000,91299
+Medicine,ophthalmology,92002,92499
+Medicine,special otorhinolaryngologic services,92502,92700
+Medicine,cardiovascular,92950,93799
+Medicine,noninvasive vascular diagnostic studies,93875,93990
+Medicine,pulmonary,94002,94799
+Medicine,allergy and clinical immunology,95004,95199
+Medicine,endocrinology,95250,95251
+Medicine,neurology and neuromuscular procedures,95803,96020
+Medicine,"central nervous system assessments/tests (neuro-cognitive, mental status, speech testing)",96101,96125
+Medicine,health and behavior assessment/intervention,96150,96155
+Medicine,"hydration, therapeutic, prophylactic, diagnostic injections and infusions, and chemotherapy and other highly complex drug or highly complex biologic agent administration",96360,96549
+Medicine,photodynamic therapy,96567,96571
+Medicine,special dermatological procedures,96900,96999
+Medicine,physical medicine and rehabilitation,97001,97799
+Medicine,medical nutrition therapy,97802,97804
+Medicine,acupuncture,97810,97814
+Medicine,osteopathic manipulative treatment,98925,98929
+Medicine,chiropractic manipulative treatment,98940,98943
+Medicine,education and training for patient self-management,98960,98962
+Medicine,non-face-to-face nonphysician services,98966,98969
+Medicine,"special services, procedures and reports",99000,99091
+Anesthesia,qualifying circumstances for anesthesia,99100,99140
+Anesthesia,moderate (conscious) sedation,99143,99150
+Medicine,other services and procedures,99170,99199
+Evaluation and Management,Office/other outpatient services,99201,99215
+Evaluation and Management,Hospital observationservices,99217,99220
+Evaluation and Management,Hospital inpatientservices,99221,99239
+Evaluation and Management,Consultations,99241,99255
+Evaluation and Management,Emergency departmentservices,99281,99288
+Evaluation and Management,Critical careservices,99291,99292
+Evaluation and Management,Nursing facilityservices,99304,99318
+Evaluation and Management,"Domiciliary, rest home (boarding home) or custodial care services",99324,99337
+Evaluation and Management,"Domiciliary, rest home (assisted living facility), or home care plan oversight services",99339,99340
+Evaluation and Management,Home healthservices,99341,99350
+Evaluation and Management,Prolonged services,99354,99360
+Evaluation and Management,Anatomic pathology (postmortem),99363,99368
+Evaluation and Management,Care plan oversightservices,99374,99380
+Evaluation and Management,Preventive medicineservices,99381,99429
+Evaluation and Management,Non-face-to-face physician services,99441,99444
+Evaluation and Management,Special evaluation and management services,99450,99456
+Evaluation and Management,Newborn careservices,99460,99465
+Evaluation and Management,"Inpatient neonatal intensive, and pediatric/neonatal critical, care services",99466,99480
+Evaluation and Management,Complex chronic care coordinationservices,99487,99489
+Evaluation and Management,Transitional caremanagement services,99495,99496
+Medicine,home health procedures/services,99500,99602
+Medicine,medication therapy management services,99605,99607

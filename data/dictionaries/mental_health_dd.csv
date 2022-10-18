@@ -1,0 +1,20 @@
+Column Name,Description
+year,Year the survey was submitted
+age,Respondent age
+gender,Respondent gender
+country,Respondent country
+family_history,Do you have a family history of mental illness?
+treatment,Have you sought treatment for a mental health condition?
+work_interfere,Does your mental health condition interfere with your work (if you have one)?
+no_employees,How many employees does your company or organization have?
+tech_company,Is your employer primarily a tech company/organization?
+benefits,Does your employer provide mental health benefits?
+care_options,Do you know the options for mental health care your employer provides?
+wellness_program,Has your employer ever discussed mental health?
+seek_help,Does your employer provide resources to learn and seek help about mental health issues?
+anonymity,Is your anonymity protected if you use mental health resources?
+leave,How easy is it for you to take medical leave for a mental health condition?
+mental_health_consequence,Would discussing a mental health issue with your employer have negative consequences?
+phys_health_consequence,Would discussing a physical health issue with your employer have negative consequences?
+coworkers,Would you be willing to discuss a mental health issue with your coworkers?
+supervisor,Would you be willing to discuss a mental health issue with your supervisor?

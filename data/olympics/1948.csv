@@ -1,0 +1,38 @@
+Rank,Team,Gold,Silver,Bronze,Total
+1,United States (USA),38,27,19,84
+2,Sweden (SWE),16,11,17,44
+3,France (FRA),10,6,13,29
+4,Hungary (HUN),10,5,12,27
+5,Italy (ITA),8,11,8,27
+6,Finland (FIN),8,7,5,20
+7,Turkey (TUR),6,4,2,12
+8,Czechoslovakia (TCH),6,2,3,11
+9,Switzerland (SUI),5,10,5,20
+10,Denmark (DEN),5,7,8,20
+11,Netherlands (NED),5,2,9,16
+12,Great Britain (GBR),3,14,6,23
+13,Argentina (ARG),3,3,1,7
+14,Australia (AUS),2,6,5,13
+15,Belgium (BEL),2,2,3,7
+16,Egypt (EGY),2,2,1,5
+17,Mexico (MEX),2,1,2,5
+18,South Africa (RSA),2,1,1,4
+19,Norway (NOR),1,3,3,7
+20,Jamaica (JAM),1,2,0,3
+21,Austria (AUT),1,0,3,4
+22,India (IND),1,0,0,1
+22,Peru (PER),1,0,0,1
+24,Yugoslavia (YUG),0,2,0,2
+25,Canada (CAN),0,1,2,3
+26,Portugal (POR),0,1,1,2
+26,Uruguay (URU),0,1,1,2
+28,Ceylon (CEY),0,1,0,1
+28,Cuba (CUB),0,1,0,1
+28,Spain (ESP),0,1,0,1
+28,Trinidad and Tobago (TRI),0,1,0,1
+32,Panama (PAN),0,0,2,2
+32,South Korea (KOR),0,0,2,2
+34,Brazil (BRA),0,0,1,1
+34,Iran (IRI),0,0,1,1
+34,Poland (POL),0,0,1,1
+34,Puerto Rico (PUR),0,0,1,1

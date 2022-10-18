@@ -1,0 +1,15 @@
+Name,Attributes
+-,None
+->,"head_length=0.4, head_width=0.2"
+-[,"widthB=1.0, lengthB=0.2, angleB=None"
+-|>,"head_length=0.4, head_width=0.2"
+<-,"head_length=0.4, head_width=0.2"
+<->,"head_length=0.4, head_width=0.2"
+<|-,"head_length=0.4, head_width=0.2"
+<|-|>,"head_length=0.4, head_width=0.2"
+]-,"widthA=1.0, lengthA=0.2, angleA=None"
+]-[,"widthA=1.0, lengthA=0.2, angleA=None, widthB=1.0, lengthB=0.2, angleB=None"
+fancy,"head_length=0.4, head_width=0.4, tail_width=0.4"
+simple,"head_length=0.5, head_width=0.5, tail_width=0.2"
+wedge,"tail_width=0.3, shrink_factor=0.5"
+|-|,"widthA=1.0, angleA=None, widthB=1.0, angleB=None"

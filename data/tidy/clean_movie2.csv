@@ -1,0 +1,39 @@
+content_rating,country,count
+G,Australia,2
+G,Canada,1
+G,France,5
+G,Germany,1
+G,UK,11
+G,USA,85
+Not Rated,Canada,9
+Not Rated,France,11
+Not Rated,Germany,4
+Not Rated,India,6
+Not Rated,Spain,2
+Not Rated,UK,10
+Not Rated,USA,51
+PG,Australia,11
+PG,Canada,10
+PG,France,12
+PG,Germany,11
+PG,India,2
+PG,Spain,2
+PG,UK,70
+PG,USA,544
+PG-13,Australia,10
+PG-13,Canada,25
+PG-13,France,34
+PG-13,Germany,22
+PG-13,India,2
+PG-13,Spain,6
+PG-13,UK,97
+PG-13,USA,1168
+R,Australia,25
+R,Canada,64
+R,France,63
+R,Germany,49
+R,India,3
+R,Spain,21
+R,UK,198
+R,USA,1534
+R,USA,99

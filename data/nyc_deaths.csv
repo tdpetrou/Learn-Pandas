@@ -1,0 +1,873 @@
+year,cause,sex,race,deaths
+2007,Accidents,F,Asian,32
+2007,Accidents,F,Black,87
+2007,Accidents,F,Hispanic,71
+2007,Accidents,F,White,162
+2007,Accidents,M,Asian,53
+2007,Accidents,M,Black,158
+2007,Accidents,M,Hispanic,154
+2007,Accidents,M,Unknown,13
+2007,Accidents,M,White,297
+2007,Other,F,Asian,182
+2007,Other,F,Black,1230
+2007,Other,F,Hispanic,820
+2007,Other,F,Unknown,42
+2007,Other,F,White,1680
+2007,Other,M,Asian,221
+2007,Other,M,Black,1163
+2007,Other,M,Hispanic,988
+2007,Other,M,Unknown,67
+2007,Other,M,White,1749
+2007,Alzheimer's,F,White,107
+2007,Cancer,F,Asian,395
+2007,Cancer,F,Black,1800
+2007,Cancer,F,Hispanic,969
+2007,Cancer,F,Unknown,73
+2007,Cancer,F,White,3518
+2007,Cancer,M,Asian,528
+2007,Cancer,M,Black,1523
+2007,Cancer,M,Hispanic,1013
+2007,Cancer,M,Unknown,74
+2007,Cancer,M,White,3356
+2007,Diabetes,F,Asian,34
+2007,Diabetes,F,Black,358
+2007,Diabetes,F,Hispanic,205
+2007,Diabetes,F,White,231
+2007,Diabetes,M,Asian,47
+2007,Diabetes,M,Black,246
+2007,Diabetes,M,Hispanic,177
+2007,Diabetes,M,Unknown,20
+2007,Diabetes,M,White,237
+2007,Flu and Pneumonia,F,Asian,58
+2007,Flu and Pneumonia,F,Black,295
+2007,Flu and Pneumonia,F,Hispanic,190
+2007,Flu and Pneumonia,F,White,659
+2007,Flu and Pneumonia,M,Asian,66
+2007,Flu and Pneumonia,M,Black,229
+2007,Flu and Pneumonia,M,Hispanic,189
+2007,Flu and Pneumonia,M,Unknown,20
+2007,Flu and Pneumonia,M,White,530
+2007,HIV,F,Black,248
+2007,HIV,F,Hispanic,109
+2007,HIV,F,Unknown,5
+2007,HIV,M,Black,377
+2007,HIV,M,Hispanic,218
+2007,HIV,M,Unknown,6
+2007,Heart Disease,F,Asian,428
+2007,Heart Disease,F,Black,2722
+2007,Heart Disease,F,Hispanic,1418
+2007,Heart Disease,F,Unknown,125
+2007,Heart Disease,F,White,7050
+2007,Heart Disease,M,Asian,496
+2007,Heart Disease,M,Black,2121
+2007,Heart Disease,M,Hispanic,1327
+2007,Heart Disease,M,Unknown,122
+2007,Heart Disease,M,White,5632
+2007,Homicide,M,Black,267
+2007,Homicide,M,Hispanic,114
+2007,Hypertension,F,Asian,22
+2007,Hypertension,F,Black,166
+2007,Hypertension,F,Hispanic,78
+2007,Hypertension,F,Unknown,5
+2007,Hypertension,F,White,155
+2007,Hypertension,M,Asian,25
+2007,Hypertension,M,Black,137
+2007,Hypertension,M,White,123
+2007,Liver Disease,M,Asian,18
+2007,Liver Disease,M,Hispanic,107
+2007,Nephritis,F,Asian,13
+2007,Nephritis,F,White,89
+2007,Respiratory Diseases,F,Asian,29
+2007,Respiratory Diseases,F,Black,163
+2007,Respiratory Diseases,F,Hispanic,116
+2007,Respiratory Diseases,F,Unknown,6
+2007,Respiratory Diseases,F,White,472
+2007,Respiratory Diseases,M,Asian,43
+2007,Respiratory Diseases,M,Black,137
+2007,Respiratory Diseases,M,White,345
+2007,Septicemia,F,Black,89
+2007,Septicemia,F,Hispanic,49
+2007,Stroke,F,Asian,70
+2007,Stroke,F,Black,279
+2007,Stroke,F,Hispanic,164
+2007,Stroke,F,White,372
+2007,Stroke,M,Asian,56
+2007,Stroke,M,Black,213
+2007,Stroke,M,Hispanic,126
+2007,Stroke,M,Unknown,7
+2007,Stroke,M,White,267
+2007,Substance Abuse,F,Black,87
+2007,Substance Abuse,M,Black,163
+2007,Substance Abuse,M,Hispanic,183
+2007,Substance Abuse,M,Unknown,10
+2007,Substance Abuse,M,White,261
+2007,Suicide,F,Asian,22
+2007,Suicide,M,Asian,36
+2007,Suicide,M,Unknown,5
+2007,Suicide,M,White,187
+2008,Accidents,F,Asian,36
+2008,Accidents,F,Black,70
+2008,Accidents,F,Hispanic,68
+2008,Accidents,F,White,193
+2008,Accidents,M,Asian,53
+2008,Accidents,M,Black,146
+2008,Accidents,M,Hispanic,186
+2008,Accidents,M,Unknown,13
+2008,Accidents,M,White,272
+2008,Other,F,Asian,214
+2008,Other,F,Black,1268
+2008,Other,F,Hispanic,885
+2008,Other,F,Unknown,61
+2008,Other,F,White,1706
+2008,Other,M,Asian,238
+2008,Other,M,Black,1216
+2008,Other,M,Hispanic,1069
+2008,Other,M,Unknown,75
+2008,Other,M,White,1824
+2008,Alzheimer's,F,White,151
+2008,Cancer,F,Asian,344
+2008,Cancer,F,Black,1756
+2008,Cancer,F,Hispanic,1046
+2008,Cancer,F,Unknown,57
+2008,Cancer,F,White,3366
+2008,Cancer,M,Asian,473
+2008,Cancer,M,Black,1464
+2008,Cancer,M,Hispanic,1080
+2008,Cancer,M,Unknown,93
+2008,Cancer,M,White,3361
+2008,Congenital Malformations,M,Asian,14
+2008,Diabetes,F,Asian,47
+2008,Diabetes,F,Black,380
+2008,Diabetes,F,Hispanic,228
+2008,Diabetes,F,Unknown,12
+2008,Diabetes,F,White,210
+2008,Diabetes,M,Asian,52
+2008,Diabetes,M,Black,265
+2008,Diabetes,M,Hispanic,191
+2008,Diabetes,M,White,246
+2008,Flu and Pneumonia,F,Asian,73
+2008,Flu and Pneumonia,F,Black,318
+2008,Flu and Pneumonia,F,Hispanic,227
+2008,Flu and Pneumonia,F,Unknown,14
+2008,Flu and Pneumonia,F,White,621
+2008,Flu and Pneumonia,M,Asian,90
+2008,Flu and Pneumonia,M,Black,222
+2008,Flu and Pneumonia,M,Hispanic,187
+2008,Flu and Pneumonia,M,Unknown,16
+2008,Flu and Pneumonia,M,White,529
+2008,HIV,F,Black,227
+2008,HIV,F,Hispanic,113
+2008,HIV,M,Black,356
+2008,HIV,M,Hispanic,222
+2008,HIV,M,Unknown,9
+2008,Heart Disease,F,Asian,456
+2008,Heart Disease,F,Black,2725
+2008,Heart Disease,F,Hispanic,1445
+2008,Heart Disease,F,Unknown,143
+2008,Heart Disease,F,White,6836
+2008,Heart Disease,M,Asian,546
+2008,Heart Disease,M,Black,2077
+2008,Heart Disease,M,Hispanic,1330
+2008,Heart Disease,M,Unknown,131
+2008,Heart Disease,M,White,5503
+2008,Hepatitis,M,Unknown,6
+2008,Homicide,M,Black,286
+2008,Homicide,M,Unknown,13
+2008,Hypertension,F,Asian,32
+2008,Hypertension,F,Black,192
+2008,Hypertension,F,Hispanic,104
+2008,Hypertension,F,White,151
+2008,Hypertension,M,Asian,31
+2008,Hypertension,M,Black,134
+2008,Hypertension,M,White,165
+2008,Liver Disease,F,Hispanic,63
+2008,Liver Disease,M,Hispanic,149
+2008,Nephritis,F,Asian,13
+2008,Nephritis,F,Black,71
+2008,Nephritis,M,Asian,14
+2008,Perinatal Period,F,Unknown,6
+2008,Perinatal Period,M,Unknown,6
+2008,Respiratory Diseases,F,Asian,30
+2008,Respiratory Diseases,F,Black,191
+2008,Respiratory Diseases,F,Hispanic,156
+2008,Respiratory Diseases,F,White,518
+2008,Respiratory Diseases,M,Asian,46
+2008,Respiratory Diseases,M,Black,169
+2008,Respiratory Diseases,M,Hispanic,132
+2008,Respiratory Diseases,M,Unknown,10
+2008,Respiratory Diseases,M,White,347
+2008,Stroke,F,Asian,65
+2008,Stroke,F,Black,267
+2008,Stroke,F,Hispanic,152
+2008,Stroke,F,Unknown,13
+2008,Stroke,F,White,379
+2008,Stroke,M,Asian,48
+2008,Stroke,M,Black,206
+2008,Stroke,M,Hispanic,124
+2008,Stroke,M,Unknown,5
+2008,Stroke,M,White,245
+2008,Substance Abuse,F,White,86
+2008,Substance Abuse,M,Hispanic,172
+2008,Substance Abuse,M,Unknown,13
+2008,Substance Abuse,M,White,227
+2008,Suicide,F,Asian,26
+2008,Suicide,M,Asian,30
+2008,Suicide,M,White,195
+2008,Uncertain Neoplasms,F,Unknown,5
+2009,Accidents,F,Asian,37
+2009,Accidents,F,Hispanic,56
+2009,Accidents,F,White,178
+2009,Accidents,M,Asian,55
+2009,Accidents,M,Black,134
+2009,Accidents,M,Hispanic,170
+2009,Accidents,M,Unknown,16
+2009,Accidents,M,White,279
+2009,Other,F,Asian,220
+2009,Other,F,Black,1305
+2009,Other,F,Hispanic,775
+2009,Other,F,Unknown,37
+2009,Other,F,White,1684
+2009,Other,M,Asian,220
+2009,Other,M,Black,1246
+2009,Other,M,Hispanic,1067
+2009,Other,M,Unknown,73
+2009,Other,M,White,1818
+2009,Alzheimer's,F,Asian,14
+2009,Alzheimer's,F,Black,79
+2009,Alzheimer's,F,Hispanic,56
+2009,Alzheimer's,F,White,205
+2009,Cancer,F,Asian,398
+2009,Cancer,F,Black,1735
+2009,Cancer,F,Hispanic,1097
+2009,Cancer,F,Unknown,60
+2009,Cancer,F,White,3346
+2009,Cancer,M,Asian,506
+2009,Cancer,M,Black,1557
+2009,Cancer,M,Hispanic,1180
+2009,Cancer,M,Unknown,59
+2009,Cancer,M,White,3236
+2009,Diabetes,F,Asian,55
+2009,Diabetes,F,Black,384
+2009,Diabetes,F,Hispanic,215
+2009,Diabetes,F,White,229
+2009,Diabetes,M,Asian,48
+2009,Diabetes,M,Black,285
+2009,Diabetes,M,Hispanic,172
+2009,Diabetes,M,White,290
+2009,Flu and Pneumonia,F,Asian,83
+2009,Flu and Pneumonia,F,Black,281
+2009,Flu and Pneumonia,F,Hispanic,216
+2009,Flu and Pneumonia,F,Unknown,22
+2009,Flu and Pneumonia,F,White,629
+2009,Flu and Pneumonia,M,Asian,84
+2009,Flu and Pneumonia,M,Black,207
+2009,Flu and Pneumonia,M,Hispanic,183
+2009,Flu and Pneumonia,M,Unknown,14
+2009,Flu and Pneumonia,M,White,555
+2009,HIV,F,Black,208
+2009,HIV,F,Hispanic,96
+2009,HIV,M,Black,329
+2009,HIV,M,Hispanic,196
+2009,HIV,M,Unknown,8
+2009,Heart Disease,F,Asian,448
+2009,Heart Disease,F,Black,2535
+2009,Heart Disease,F,Hispanic,1349
+2009,Heart Disease,F,Unknown,151
+2009,Heart Disease,F,White,6297
+2009,Heart Disease,M,Asian,554
+2009,Heart Disease,M,Black,2068
+2009,Heart Disease,M,Hispanic,1382
+2009,Heart Disease,M,Unknown,132
+2009,Heart Disease,M,White,5168
+2009,Homicide,M,Black,255
+2009,Homicide,M,Unknown,7
+2009,Hypertension,F,Asian,18
+2009,Hypertension,F,Black,227
+2009,Hypertension,F,Hispanic,84
+2009,Hypertension,F,White,215
+2009,Hypertension,M,Asian,26
+2009,Hypertension,M,Black,131
+2009,Hypertension,M,White,148
+2009,Liver Disease,M,Asian,17
+2009,Liver Disease,M,Hispanic,119
+2009,Liver Disease,M,Unknown,10
+2009,Nephritis,F,Black,75
+2009,Perinatal Period,M,Unknown,8
+2009,Respiratory Diseases,F,Asian,30
+2009,Respiratory Diseases,F,Black,188
+2009,Respiratory Diseases,F,Hispanic,155
+2009,Respiratory Diseases,F,Unknown,7
+2009,Respiratory Diseases,F,White,458
+2009,Respiratory Diseases,M,Asian,51
+2009,Respiratory Diseases,M,Black,147
+2009,Respiratory Diseases,M,Hispanic,111
+2009,Respiratory Diseases,M,Unknown,6
+2009,Respiratory Diseases,M,White,371
+2009,Stroke,F,Asian,61
+2009,Stroke,F,Black,245
+2009,Stroke,F,Hispanic,154
+2009,Stroke,F,Unknown,5
+2009,Stroke,F,White,390
+2009,Stroke,M,Asian,58
+2009,Stroke,M,Black,154
+2009,Stroke,M,Hispanic,143
+2009,Stroke,M,White,227
+2009,Substance Abuse,F,Hispanic,57
+2009,Substance Abuse,F,White,75
+2009,Substance Abuse,M,Hispanic,145
+2009,Substance Abuse,M,Unknown,7
+2009,Substance Abuse,M,White,221
+2009,Suicide,F,Asian,17
+2009,Suicide,M,Asian,35
+2009,Suicide,M,White,191
+2010,Accidents,F,Asian,25
+2010,Accidents,F,Hispanic,58
+2010,Accidents,F,White,163
+2010,Accidents,M,Asian,54
+2010,Accidents,M,Black,147
+2010,Accidents,M,Hispanic,132
+2010,Accidents,M,Unknown,15
+2010,Accidents,M,White,271
+2010,Other,F,Asian,238
+2010,Other,F,Black,1326
+2010,Other,F,Hispanic,1007
+2010,Other,F,Unknown,45
+2010,Other,F,White,2140
+2010,Other,M,Asian,308
+2010,Other,M,Black,1230
+2010,Other,M,Hispanic,1167
+2010,Other,M,Unknown,57
+2010,Other,M,White,2034
+2010,Alzheimer's,F,Black,88
+2010,Alzheimer's,F,Hispanic,71
+2010,Alzheimer's,F,White,247
+2010,Cancer,F,Asian,414
+2010,Cancer,F,Black,1768
+2010,Cancer,F,Hispanic,1045
+2010,Cancer,F,Unknown,63
+2010,Cancer,F,White,3438
+2010,Cancer,M,Asian,526
+2010,Cancer,M,Black,1540
+2010,Cancer,M,Hispanic,1057
+2010,Cancer,M,Unknown,71
+2010,Cancer,M,White,3408
+2010,Diabetes,F,Asian,51
+2010,Diabetes,F,Black,384
+2010,Diabetes,F,Hispanic,219
+2010,Diabetes,F,Unknown,12
+2010,Diabetes,F,White,258
+2010,Diabetes,M,Asian,64
+2010,Diabetes,M,Black,279
+2010,Diabetes,M,Hispanic,187
+2010,Diabetes,M,Unknown,12
+2010,Diabetes,M,White,245
+2010,Flu and Pneumonia,F,Asian,74
+2010,Flu and Pneumonia,F,Black,275
+2010,Flu and Pneumonia,F,Hispanic,228
+2010,Flu and Pneumonia,F,White,707
+2010,Flu and Pneumonia,M,Asian,108
+2010,Flu and Pneumonia,M,Black,201
+2010,Flu and Pneumonia,M,Hispanic,235
+2010,Flu and Pneumonia,M,Unknown,6
+2010,Flu and Pneumonia,M,White,614
+2010,HIV,F,Black,152
+2010,HIV,F,Hispanic,79
+2010,HIV,M,Black,297
+2010,HIV,M,Hispanic,189
+2010,HIV,M,Unknown,8
+2010,Heart Disease,F,Asian,394
+2010,Heart Disease,F,Black,2282
+2010,Heart Disease,F,Hispanic,1316
+2010,Heart Disease,F,Unknown,120
+2010,Heart Disease,F,White,5351
+2010,Heart Disease,M,Asian,478
+2010,Heart Disease,M,Black,2015
+2010,Heart Disease,M,Hispanic,1354
+2010,Heart Disease,M,Unknown,122
+2010,Heart Disease,M,White,4495
+2010,Homicide,M,Black,299
+2010,Hypertension,F,Asian,33
+2010,Hypertension,F,Black,252
+2010,Hypertension,F,Hispanic,95
+2010,Hypertension,F,Unknown,5
+2010,Hypertension,F,White,219
+2010,Hypertension,M,Asian,30
+2010,Hypertension,M,Black,178
+2010,Hypertension,M,White,153
+2010,Liver Disease,M,Asian,18
+2010,Liver Disease,M,Hispanic,150
+2010,Nephritis,F,Black,86
+2010,Perinatal Period,F,Asian,18
+2010,Perinatal Period,F,Unknown,5
+2010,Perinatal Period,M,Unknown,6
+2010,Respiratory Diseases,F,Asian,28
+2010,Respiratory Diseases,F,Black,206
+2010,Respiratory Diseases,F,Hispanic,156
+2010,Respiratory Diseases,F,Unknown,6
+2010,Respiratory Diseases,F,White,501
+2010,Respiratory Diseases,M,Asian,61
+2010,Respiratory Diseases,M,Black,202
+2010,Respiratory Diseases,M,Hispanic,149
+2010,Respiratory Diseases,M,Unknown,17
+2010,Respiratory Diseases,M,White,388
+2010,Septicemia,F,White,107
+2010,Stroke,F,Asian,89
+2010,Stroke,F,Black,259
+2010,Stroke,F,Hispanic,168
+2010,Stroke,F,White,382
+2010,Stroke,M,Asian,83
+2010,Stroke,M,Black,171
+2010,Stroke,M,Hispanic,140
+2010,Stroke,M,White,276
+2010,Substance Abuse,M,Hispanic,138
+2010,Substance Abuse,M,Unknown,6
+2010,Substance Abuse,M,White,211
+2010,Suicide,F,Asian,17
+2010,Suicide,F,Unknown,5
+2010,Suicide,M,Asian,46
+2010,Suicide,M,White,182
+2011,Accidents,F,Asian,43
+2011,Accidents,F,White,184
+2011,Accidents,M,Asian,61
+2011,Accidents,M,Hispanic,180
+2011,Accidents,M,Unknown,10
+2011,Accidents,M,White,272
+2011,Other,F,Asian,278
+2011,Other,F,Black,1473
+2011,Other,F,Hispanic,1025
+2011,Other,F,Unknown,52
+2011,Other,F,White,2445
+2011,Other,M,Asian,340
+2011,Other,M,Black,1337
+2011,Other,M,Hispanic,1207
+2011,Other,M,Unknown,65
+2011,Other,M,White,2165
+2011,Alzheimer's,F,Asian,24
+2011,Alzheimer's,F,Black,90
+2011,Alzheimer's,F,Hispanic,90
+2011,Alzheimer's,F,White,231
+2011,Cancer,F,Asian,451
+2011,Cancer,F,Black,1918
+2011,Cancer,F,Hispanic,1085
+2011,Cancer,F,Unknown,44
+2011,Cancer,F,White,3371
+2011,Cancer,M,Asian,550
+2011,Cancer,M,Black,1590
+2011,Cancer,M,Hispanic,1144
+2011,Cancer,M,Unknown,63
+2011,Cancer,M,White,3222
+2011,Diabetes,F,Asian,51
+2011,Diabetes,F,Black,410
+2011,Diabetes,F,Hispanic,196
+2011,Diabetes,F,Unknown,14
+2011,Diabetes,F,White,253
+2011,Diabetes,M,Asian,60
+2011,Diabetes,M,Black,307
+2011,Diabetes,M,Hispanic,200
+2011,Diabetes,M,Unknown,21
+2011,Diabetes,M,White,258
+2011,Flu and Pneumonia,F,Asian,83
+2011,Flu and Pneumonia,F,Black,273
+2011,Flu and Pneumonia,F,Hispanic,218
+2011,Flu and Pneumonia,F,Unknown,14
+2011,Flu and Pneumonia,F,White,696
+2011,Flu and Pneumonia,M,Asian,94
+2011,Flu and Pneumonia,M,Black,243
+2011,Flu and Pneumonia,M,Hispanic,209
+2011,Flu and Pneumonia,M,Unknown,15
+2011,Flu and Pneumonia,M,White,646
+2011,HIV,F,Black,144
+2011,HIV,F,Hispanic,70
+2011,HIV,M,Black,277
+2011,HIV,M,Hispanic,162
+2011,HIV,M,Unknown,10
+2011,Heart Disease,F,Asian,402
+2011,Heart Disease,F,Black,2243
+2011,Heart Disease,F,Hispanic,1348
+2011,Heart Disease,F,Unknown,74
+2011,Heart Disease,F,White,5016
+2011,Heart Disease,M,Asian,452
+2011,Heart Disease,M,Black,1840
+2011,Heart Disease,M,Hispanic,1201
+2011,Heart Disease,M,Unknown,104
+2011,Heart Disease,M,White,4220
+2011,Homicide,M,Black,266
+2011,Hypertension,F,Asian,46
+2011,Hypertension,F,Black,225
+2011,Hypertension,F,Hispanic,83
+2011,Hypertension,F,White,199
+2011,Hypertension,M,Asian,37
+2011,Hypertension,M,Black,154
+2011,Hypertension,M,White,142
+2011,Liver Disease,M,Hispanic,167
+2011,Liver Disease,M,Unknown,5
+2011,Nephritis,F,Black,83
+2011,Perinatal Period,F,Unknown,14
+2011,Perinatal Period,M,Asian,19
+2011,Perinatal Period,M,Unknown,10
+2011,Respiratory Diseases,F,Asian,30
+2011,Respiratory Diseases,F,Black,221
+2011,Respiratory Diseases,F,Hispanic,156
+2011,Respiratory Diseases,F,Unknown,5
+2011,Respiratory Diseases,F,White,510
+2011,Respiratory Diseases,M,Asian,73
+2011,Respiratory Diseases,M,Black,200
+2011,Respiratory Diseases,M,Hispanic,123
+2011,Respiratory Diseases,M,White,444
+2011,Stroke,F,Asian,98
+2011,Stroke,F,Black,281
+2011,Stroke,F,Hispanic,179
+2011,Stroke,F,Unknown,5
+2011,Stroke,F,White,466
+2011,Stroke,M,Asian,79
+2011,Stroke,M,Black,200
+2011,Stroke,M,Hispanic,147
+2011,Stroke,M,White,290
+2011,Substance Abuse,F,Hispanic,56
+2011,Substance Abuse,F,White,88
+2011,Substance Abuse,M,Black,135
+2011,Substance Abuse,M,Hispanic,145
+2011,Substance Abuse,M,Unknown,5
+2011,Substance Abuse,M,White,254
+2011,Suicide,F,Asian,21
+2011,Suicide,M,Asian,49
+2011,Suicide,M,Unknown,5
+2011,Suicide,M,White,177
+2012,Accidents,F,Asian,34
+2012,Accidents,F,Hispanic,60
+2012,Accidents,F,White,177
+2012,Accidents,M,Asian,56
+2012,Accidents,M,Black,152
+2012,Accidents,M,Hispanic,191
+2012,Accidents,M,Unknown,16
+2012,Accidents,M,White,286
+2012,Other,F,Asian,327
+2012,Other,F,Black,1483
+2012,Other,F,Hispanic,1109
+2012,Other,F,Unknown,75
+2012,Other,F,White,2444
+2012,Other,M,Asian,333
+2012,Other,M,Black,1320
+2012,Other,M,Hispanic,1199
+2012,Other,M,Unknown,102
+2012,Other,M,White,2316
+2012,Alzheimer's,F,Black,115
+2012,Alzheimer's,F,Hispanic,126
+2012,Alzheimer's,F,White,222
+2012,Cancer,F,Asian,461
+2012,Cancer,F,Black,1912
+2012,Cancer,F,Hispanic,1125
+2012,Cancer,F,Unknown,65
+2012,Cancer,F,White,3256
+2012,Cancer,M,Asian,622
+2012,Cancer,M,Black,1563
+2012,Cancer,M,Hispanic,1126
+2012,Cancer,M,Unknown,87
+2012,Cancer,M,White,3184
+2012,Congenital Malformations,F,Unknown,8
+2012,Diabetes,F,Asian,57
+2012,Diabetes,F,Black,409
+2012,Diabetes,F,Hispanic,200
+2012,Diabetes,F,Unknown,24
+2012,Diabetes,F,White,240
+2012,Diabetes,M,Asian,76
+2012,Diabetes,M,Black,308
+2012,Diabetes,M,Hispanic,194
+2012,Diabetes,M,Unknown,8
+2012,Diabetes,M,White,292
+2012,Flu and Pneumonia,F,Asian,74
+2012,Flu and Pneumonia,F,Black,295
+2012,Flu and Pneumonia,F,Hispanic,209
+2012,Flu and Pneumonia,F,Unknown,12
+2012,Flu and Pneumonia,F,White,576
+2012,Flu and Pneumonia,M,Asian,76
+2012,Flu and Pneumonia,M,Black,242
+2012,Flu and Pneumonia,M,Hispanic,205
+2012,Flu and Pneumonia,M,Unknown,11
+2012,Flu and Pneumonia,M,White,540
+2012,HIV,F,Black,136
+2012,HIV,M,Black,223
+2012,HIV,M,Hispanic,103
+2012,HIV,M,Unknown,9
+2012,Heart Disease,F,Asian,402
+2012,Heart Disease,F,Black,2269
+2012,Heart Disease,F,Hispanic,1263
+2012,Heart Disease,F,Unknown,124
+2012,Heart Disease,F,White,4719
+2012,Heart Disease,M,Asian,469
+2012,Heart Disease,M,Black,1940
+2012,Heart Disease,M,Hispanic,1251
+2012,Heart Disease,M,Unknown,138
+2012,Heart Disease,M,White,4156
+2012,Homicide,M,Black,235
+2012,Hypertension,F,Asian,39
+2012,Hypertension,F,Black,214
+2012,Hypertension,F,Hispanic,101
+2012,Hypertension,F,Unknown,5
+2012,Hypertension,F,White,199
+2012,Hypertension,M,Asian,39
+2012,Hypertension,M,Black,143
+2012,Hypertension,M,White,153
+2012,Liver Disease,F,Hispanic,54
+2012,Liver Disease,M,Asian,20
+2012,Liver Disease,M,Hispanic,143
+2012,Nephritis,F,Asian,22
+2012,Nephritis,F,Black,76
+2012,Perinatal Period,F,Unknown,11
+2012,Perinatal Period,M,Unknown,17
+2012,Respiratory Diseases,F,Asian,39
+2012,Respiratory Diseases,F,Black,204
+2012,Respiratory Diseases,F,Hispanic,158
+2012,Respiratory Diseases,F,Unknown,8
+2012,Respiratory Diseases,F,White,507
+2012,Respiratory Diseases,M,Asian,55
+2012,Respiratory Diseases,M,Black,184
+2012,Respiratory Diseases,M,Hispanic,132
+2012,Respiratory Diseases,M,Unknown,11
+2012,Respiratory Diseases,M,White,352
+2012,Septicemia,F,White,113
+2012,Septicemia,M,Unknown,6
+2012,Stroke,F,Asian,102
+2012,Stroke,F,Black,271
+2012,Stroke,F,Hispanic,169
+2012,Stroke,F,Unknown,17
+2012,Stroke,F,White,416
+2012,Stroke,M,Asian,70
+2012,Stroke,M,Black,170
+2012,Stroke,M,Hispanic,129
+2012,Stroke,M,Unknown,17
+2012,Stroke,M,White,285
+2012,Substance Abuse,M,Hispanic,173
+2012,Substance Abuse,M,Unknown,7
+2012,Substance Abuse,M,White,272
+2012,Suicide,F,Asian,33
+2012,Suicide,M,Asian,40
+2012,Suicide,M,Unknown,8
+2012,Suicide,M,White,199
+2013,Accidents,F,Asian,35
+2013,Accidents,F,Hispanic,60
+2013,Accidents,F,White,166
+2013,Accidents,M,Asian,63
+2013,Accidents,M,Black,159
+2013,Accidents,M,Hispanic,189
+2013,Accidents,M,Unknown,5
+2013,Accidents,M,White,271
+2013,Other,F,Asian,320
+2013,Other,F,Black,1557
+2013,Other,F,Hispanic,1082
+2013,Other,F,Unknown,118
+2013,Other,F,White,2595
+2013,Other,M,Asian,395
+2013,Other,M,Black,1341
+2013,Other,M,Hispanic,1193
+2013,Other,M,Unknown,181
+2013,Other,M,White,2293
+2013,Alzheimer's,F,Black,106
+2013,Alzheimer's,F,Hispanic,120
+2013,Alzheimer's,F,Unknown,8
+2013,Alzheimer's,F,White,263
+2013,Cancer,F,Asian,467
+2013,Cancer,F,Black,1784
+2013,Cancer,F,Hispanic,1149
+2013,Cancer,F,Unknown,137
+2013,Cancer,F,White,3187
+2013,Cancer,M,Asian,633
+2013,Cancer,M,Black,1592
+2013,Cancer,M,Hispanic,1146
+2013,Cancer,M,Unknown,131
+2013,Cancer,M,White,3132
+2013,Diabetes,F,Asian,60
+2013,Diabetes,F,Black,410
+2013,Diabetes,F,Hispanic,221
+2013,Diabetes,F,Unknown,25
+2013,Diabetes,F,White,238
+2013,Diabetes,M,Asian,96
+2013,Diabetes,M,Black,300
+2013,Diabetes,M,Hispanic,192
+2013,Diabetes,M,Unknown,36
+2013,Diabetes,M,White,265
+2013,Flu and Pneumonia,F,Asian,78
+2013,Flu and Pneumonia,F,Black,285
+2013,Flu and Pneumonia,F,Hispanic,204
+2013,Flu and Pneumonia,F,Unknown,24
+2013,Flu and Pneumonia,F,White,622
+2013,Flu and Pneumonia,M,Asian,102
+2013,Flu and Pneumonia,M,Black,274
+2013,Flu and Pneumonia,M,Hispanic,233
+2013,Flu and Pneumonia,M,Unknown,32
+2013,Flu and Pneumonia,M,White,618
+2013,HIV,F,Black,107
+2013,HIV,M,Black,204
+2013,HIV,M,Hispanic,122
+2013,Heart Disease,F,Asian,437
+2013,Heart Disease,F,Black,2365
+2013,Heart Disease,F,Hispanic,1261
+2013,Heart Disease,F,Unknown,147
+2013,Heart Disease,F,White,4535
+2013,Heart Disease,M,Asian,531
+2013,Heart Disease,M,Black,1868
+2013,Heart Disease,M,Hispanic,1307
+2013,Heart Disease,M,Unknown,223
+2013,Heart Disease,M,White,4085
+2013,Hepatitis,F,Asian,15
+2013,Homicide,M,Black,174
+2013,Hypertension,F,Asian,50
+2013,Hypertension,F,Black,240
+2013,Hypertension,F,Hispanic,103
+2013,Hypertension,F,Unknown,15
+2013,Hypertension,F,White,206
+2013,Hypertension,M,Asian,33
+2013,Hypertension,M,Black,148
+2013,Hypertension,M,Unknown,20
+2013,Hypertension,M,White,156
+2013,Liver Disease,M,Asian,29
+2013,Liver Disease,M,Hispanic,149
+2013,Liver Disease,M,Unknown,16
+2013,Nephritis,F,Black,93
+2013,Perinatal Period,F,Unknown,9
+2013,Perinatal Period,M,Unknown,25
+2013,Respiratory Diseases,F,Asian,27
+2013,Respiratory Diseases,F,Black,258
+2013,Respiratory Diseases,F,Hispanic,168
+2013,Respiratory Diseases,F,Unknown,9
+2013,Respiratory Diseases,F,White,521
+2013,Respiratory Diseases,M,Asian,72
+2013,Respiratory Diseases,M,Black,184
+2013,Respiratory Diseases,M,Hispanic,142
+2013,Respiratory Diseases,M,Unknown,15
+2013,Respiratory Diseases,M,White,437
+2013,Septicemia,F,Asian,16
+2013,Septicemia,F,White,135
+2013,Stroke,F,Asian,80
+2013,Stroke,F,Black,271
+2013,Stroke,F,Hispanic,222
+2013,Stroke,F,Unknown,21
+2013,Stroke,F,White,427
+2013,Stroke,M,Asian,71
+2013,Stroke,M,Black,191
+2013,Stroke,M,Hispanic,158
+2013,Stroke,M,Unknown,10
+2013,Stroke,M,White,249
+2013,Substance Abuse,F,Hispanic,63
+2013,Substance Abuse,F,Unknown,6
+2013,Substance Abuse,M,Hispanic,188
+2013,Substance Abuse,M,Unknown,21
+2013,Substance Abuse,M,White,286
+2013,Suicide,F,Unknown,5
+2013,Suicide,M,Asian,41
+2013,Suicide,M,Unknown,23
+2013,Suicide,M,White,204
+2014,Accidents,F,Asian,42
+2014,Accidents,F,Hispanic,64
+2014,Accidents,F,Unknown,6
+2014,Accidents,F,White,169
+2014,Accidents,M,Asian,68
+2014,Accidents,M,Black,148
+2014,Accidents,M,Hispanic,176
+2014,Accidents,M,Unknown,12
+2014,Accidents,M,White,258
+2014,Other,F,Asian,339
+2014,Other,F,Black,1536
+2014,Other,F,Hispanic,1135
+2014,Other,F,Unknown,107
+2014,Other,F,White,2578
+2014,Other,M,Asian,424
+2014,Other,M,Black,1375
+2014,Other,M,Hispanic,1195
+2014,Other,M,Unknown,170
+2014,Other,M,White,2275
+2014,Alzheimer's,F,Asian,26
+2014,Alzheimer's,F,Black,123
+2014,Alzheimer's,F,Hispanic,142
+2014,Alzheimer's,F,White,276
+2014,Cancer,F,Asian,502
+2014,Cancer,F,Black,1852
+2014,Cancer,F,Hispanic,1154
+2014,Cancer,F,Unknown,116
+2014,Cancer,F,White,3153
+2014,Cancer,M,Asian,657
+2014,Cancer,M,Black,1532
+2014,Cancer,M,Hispanic,1146
+2014,Cancer,M,Unknown,123
+2014,Cancer,M,White,3142
+2014,Diabetes,F,Asian,50
+2014,Diabetes,F,Black,398
+2014,Diabetes,F,Hispanic,209
+2014,Diabetes,F,Unknown,20
+2014,Diabetes,F,White,228
+2014,Diabetes,M,Asian,71
+2014,Diabetes,M,Black,318
+2014,Diabetes,M,Hispanic,186
+2014,Diabetes,M,Unknown,26
+2014,Diabetes,M,White,292
+2014,Flu and Pneumonia,F,Asian,80
+2014,Flu and Pneumonia,F,Black,266
+2014,Flu and Pneumonia,F,Hispanic,218
+2014,Flu and Pneumonia,F,Unknown,20
+2014,Flu and Pneumonia,F,White,563
+2014,Flu and Pneumonia,M,Asian,105
+2014,Flu and Pneumonia,M,Black,242
+2014,Flu and Pneumonia,M,Hispanic,199
+2014,Flu and Pneumonia,M,Unknown,25
+2014,Flu and Pneumonia,M,White,502
+2014,HIV,F,Black,102
+2014,HIV,F,Unknown,7
+2014,HIV,M,Black,196
+2014,HIV,M,Hispanic,92
+2014,HIV,M,Unknown,20
+2014,Heart Disease,F,Asian,462
+2014,Heart Disease,F,Black,2194
+2014,Heart Disease,F,Hispanic,1230
+2014,Heart Disease,F,Unknown,163
+2014,Heart Disease,F,White,4507
+2014,Heart Disease,M,Asian,554
+2014,Heart Disease,M,Black,1958
+2014,Heart Disease,M,Hispanic,1281
+2014,Heart Disease,M,Unknown,178
+2014,Heart Disease,M,White,3990
+2014,Homicide,M,Black,186
+2014,Hypertension,F,Asian,29
+2014,Hypertension,F,Black,207
+2014,Hypertension,F,Hispanic,116
+2014,Hypertension,F,White,180
+2014,Hypertension,M,Black,155
+2014,Hypertension,M,Unknown,9
+2014,Hypertension,M,White,175
+2014,Liver Disease,F,Hispanic,66
+2014,Liver Disease,M,Asian,31
+2014,Liver Disease,M,Hispanic,164
+2014,Liver Disease,M,Unknown,10
+2014,Nephritis,F,Black,90
+2014,Nephritis,M,Asian,28
+2014,Perinatal Period,F,Unknown,10
+2014,Perinatal Period,M,Unknown,33
+2014,Respiratory Diseases,F,Asian,36
+2014,Respiratory Diseases,F,Black,220
+2014,Respiratory Diseases,F,Hispanic,193
+2014,Respiratory Diseases,F,Unknown,18
+2014,Respiratory Diseases,F,White,515
+2014,Respiratory Diseases,M,Asian,95
+2014,Respiratory Diseases,M,Black,186
+2014,Respiratory Diseases,M,Hispanic,145
+2014,Respiratory Diseases,M,Unknown,14
+2014,Respiratory Diseases,M,White,399
+2014,Septicemia,F,White,118
+2014,Septicemia,M,Unknown,8
+2014,Stroke,F,Asian,112
+2014,Stroke,F,Black,274
+2014,Stroke,F,Hispanic,220
+2014,Stroke,F,Unknown,18
+2014,Stroke,F,White,418
+2014,Stroke,M,Asian,91
+2014,Stroke,M,Black,197
+2014,Stroke,M,Hispanic,165
+2014,Stroke,M,Unknown,15
+2014,Stroke,M,White,277
+2014,Substance Abuse,F,Unknown,6
+2014,Substance Abuse,M,Hispanic,191
+2014,Substance Abuse,M,Unknown,12
+2014,Substance Abuse,M,White,314
+2014,Suicide,F,Asian,28
+2014,Suicide,F,Unknown,5
+2014,Suicide,M,Asian,50
+2014,Suicide,M,White,204

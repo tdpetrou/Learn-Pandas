@@ -1,0 +1,7 @@
+patient_name,visit_date,patient_address,patient_birthdate,clinic_name,clinic_address,cost,doctor_name,doctor_specialty,procedure_name,procedure_code
+Penelope,5/3/2014,123 Fake  Street,4/1/2013,St. Clair,501 Downtown Ave,100,Smith,General Practitioner,Physical,1
+Abbas,6/1/2014,105 Real Street,3/14/1947,Younge,222 Fortnite Dr,50,Patel,Radiologist,X-ray,20
+Eleni,6/3/2014,50 Rosegarden,8/9/1981,Main,21 Jayne St,200,Smith,General Practitioner,Physical,1
+Abbas,6/10/2015,105 Real Street,3/14/1947,Starsky,505 Perry Rd,35,Patel,Radiologist,CT Scan,24
+Penelope,7/2/2016,123 Fake  Street,4/1/2013,Younge,222 Fortnite Dr,44,Brown,Cardiologist,Echocardiogram,31
+Eleni,3/3/2017,50 Rosegarden,8/9/1981,Younge,222 Fortnite Dr,300,Brown,Cardiologist,Stress Test,36

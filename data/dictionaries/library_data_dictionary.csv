@@ -1,0 +1,10 @@
+column_name,description
+Patron Type,"Description of patron (adult, teen, child, senior, etc.)"
+Age Range,"Age ranges: 0 to 9 years, 10 to 19 years, 20 to 24 years, 25 to 34 years, 35 to 44 years, 45 to 54 years, 55 to 59 years, 60 to 64 years 65 to 74 years, 75 years and over. Some blank."
+Home Library,Description of the branch library where the patron was originally registered.
+Active Date,"Date the patron last checked out library materials, or last logged into the library's subscription databases from a computer outside the library. "
+Checkouts,Total number of items the patron has checked out from the library since the record was created.
+Renewals,Total number of times the patron has renewed checked-out items.
+Notice Preference,Description of the patron’s preferred method of receiving library notices.
+Year Patron Registered,Year patron registered with library system. No dates prior to 2003 due to system migration.
+Outside of County,"If a patron's home address is not in San Francisco, then flagged as true, otherwise false."

@@ -1,0 +1,304 @@
+age,sex,chest_pain,rest_bp,chol,fbs,rest_ecg,max_hr,exang,old_peak,slope,ca,thal,disease
+63,Male,typical,145,233,1,left ventricular hypertrophy ,150,0,2.3,3,0.0,fixed,0
+67,Male,asymptomatic,160,286,0,left ventricular hypertrophy ,108,1,1.5,2,3.0,normal,1
+67,Male,asymptomatic,120,229,0,left ventricular hypertrophy ,129,1,2.6,2,2.0,reversable,1
+37,Male,nonanginal,130,250,0,normal,187,0,3.5,3,0.0,normal,0
+41,Female,nontypical,130,204,0,left ventricular hypertrophy ,172,0,1.4,1,0.0,normal,0
+56,Male,nontypical,120,236,0,normal,178,0,0.8,1,0.0,normal,0
+62,Female,asymptomatic,140,268,0,left ventricular hypertrophy ,160,0,3.6,3,2.0,normal,1
+57,Female,asymptomatic,120,354,0,normal,163,1,0.6,1,0.0,normal,0
+63,Male,asymptomatic,130,254,0,left ventricular hypertrophy ,147,0,1.4,2,1.0,reversable,1
+53,Male,asymptomatic,140,203,1,left ventricular hypertrophy ,155,1,3.1,3,0.0,reversable,1
+57,Male,asymptomatic,140,192,0,normal,148,0,0.4,2,0.0,fixed,0
+56,Female,nontypical,140,294,0,left ventricular hypertrophy ,153,0,1.3,2,0.0,normal,0
+56,Male,nonanginal,130,256,1,left ventricular hypertrophy ,142,1,0.6,2,1.0,fixed,1
+44,Male,nontypical,120,263,0,normal,173,0,0.0,1,0.0,reversable,0
+52,Male,nonanginal,172,199,1,normal,162,0,0.5,1,0.0,reversable,0
+57,Male,nonanginal,150,168,0,normal,174,0,1.6,1,0.0,normal,0
+48,Male,nontypical,110,229,0,normal,168,0,1.0,3,0.0,reversable,1
+54,Male,asymptomatic,140,239,0,normal,160,0,1.2,1,0.0,normal,0
+48,Female,nonanginal,130,275,0,normal,139,0,0.2,1,0.0,normal,0
+49,Male,nontypical,130,266,0,normal,171,0,0.6,1,0.0,normal,0
+64,Male,typical,110,211,0,left ventricular hypertrophy ,144,1,1.8,2,0.0,normal,0
+58,Female,typical,150,283,1,left ventricular hypertrophy ,162,0,1.0,1,0.0,normal,0
+58,Male,nontypical,120,284,0,left ventricular hypertrophy ,160,0,1.8,2,0.0,normal,1
+58,Male,nonanginal,132,224,0,left ventricular hypertrophy ,173,0,3.2,1,2.0,reversable,1
+60,Male,asymptomatic,130,206,0,left ventricular hypertrophy ,132,1,2.4,2,2.0,reversable,1
+50,Female,nonanginal,120,219,0,normal,158,0,1.6,2,0.0,normal,0
+58,Female,nonanginal,120,340,0,normal,172,0,0.0,1,0.0,normal,0
+66,Female,typical,150,226,0,normal,114,0,2.6,3,0.0,normal,0
+43,Male,asymptomatic,150,247,0,normal,171,0,1.5,1,0.0,normal,0
+40,Male,asymptomatic,110,167,0,left ventricular hypertrophy ,114,1,2.0,2,0.0,reversable,1
+69,Female,typical,140,239,0,normal,151,0,1.8,1,2.0,normal,0
+60,Male,asymptomatic,117,230,1,normal,160,1,1.4,1,2.0,reversable,1
+64,Male,nonanginal,140,335,0,normal,158,0,0.0,1,0.0,normal,1
+59,Male,asymptomatic,135,234,0,normal,161,0,0.5,2,0.0,reversable,0
+44,Male,nonanginal,130,233,0,normal,179,1,0.4,1,0.0,normal,0
+42,Male,asymptomatic,140,226,0,normal,178,0,0.0,1,0.0,normal,0
+43,Male,asymptomatic,120,177,0,left ventricular hypertrophy ,120,1,2.5,2,0.0,reversable,1
+57,Male,asymptomatic,150,276,0,left ventricular hypertrophy ,112,1,0.6,2,1.0,fixed,1
+55,Male,asymptomatic,132,353,0,normal,132,1,1.2,2,1.0,reversable,1
+61,Male,nonanginal,150,243,1,normal,137,1,1.0,2,0.0,normal,0
+65,Female,asymptomatic,150,225,0,left ventricular hypertrophy ,114,0,1.0,2,3.0,reversable,1
+40,Male,typical,140,199,0,normal,178,1,1.4,1,0.0,reversable,0
+71,Female,nontypical,160,302,0,normal,162,0,0.4,1,2.0,normal,0
+59,Male,nonanginal,150,212,1,normal,157,0,1.6,1,0.0,normal,0
+61,Female,asymptomatic,130,330,0,left ventricular hypertrophy ,169,0,0.0,1,0.0,normal,1
+58,Male,nonanginal,112,230,0,left ventricular hypertrophy ,165,0,2.5,2,1.0,reversable,1
+51,Male,nonanginal,110,175,0,normal,123,0,0.6,1,0.0,normal,0
+50,Male,asymptomatic,150,243,0,left ventricular hypertrophy ,128,0,2.6,2,0.0,reversable,1
+65,Female,nonanginal,140,417,1,left ventricular hypertrophy ,157,0,0.8,1,1.0,normal,0
+53,Male,nonanginal,130,197,1,left ventricular hypertrophy ,152,0,1.2,3,0.0,normal,0
+41,Female,nontypical,105,198,0,normal,168,0,0.0,1,1.0,normal,0
+65,Male,asymptomatic,120,177,0,normal,140,0,0.4,1,0.0,reversable,0
+44,Male,asymptomatic,112,290,0,left ventricular hypertrophy ,153,0,0.0,1,1.0,normal,1
+44,Male,nontypical,130,219,0,left ventricular hypertrophy ,188,0,0.0,1,0.0,normal,0
+60,Male,asymptomatic,130,253,0,normal,144,1,1.4,1,1.0,reversable,1
+54,Male,asymptomatic,124,266,0,left ventricular hypertrophy ,109,1,2.2,2,1.0,reversable,1
+50,Male,nonanginal,140,233,0,normal,163,0,0.6,2,1.0,reversable,1
+41,Male,asymptomatic,110,172,0,left ventricular hypertrophy ,158,0,0.0,1,0.0,reversable,1
+54,Male,nonanginal,125,273,0,left ventricular hypertrophy ,152,0,0.5,3,1.0,normal,0
+51,Male,typical,125,213,0,left ventricular hypertrophy ,125,1,1.4,1,1.0,normal,0
+51,Female,asymptomatic,130,305,0,normal,142,1,1.2,2,0.0,reversable,1
+46,Female,nonanginal,142,177,0,left ventricular hypertrophy ,160,1,1.4,3,0.0,normal,0
+58,Male,asymptomatic,128,216,0,left ventricular hypertrophy ,131,1,2.2,2,3.0,reversable,1
+54,Female,nonanginal,135,304,1,normal,170,0,0.0,1,0.0,normal,0
+54,Male,asymptomatic,120,188,0,normal,113,0,1.4,2,1.0,reversable,1
+60,Male,asymptomatic,145,282,0,left ventricular hypertrophy ,142,1,2.8,2,2.0,reversable,1
+60,Male,nonanginal,140,185,0,left ventricular hypertrophy ,155,0,3.0,2,0.0,normal,1
+54,Male,nonanginal,150,232,0,left ventricular hypertrophy ,165,0,1.6,1,0.0,reversable,0
+59,Male,asymptomatic,170,326,0,left ventricular hypertrophy ,140,1,3.4,3,0.0,reversable,1
+46,Male,nonanginal,150,231,0,normal,147,0,3.6,2,0.0,normal,1
+65,Female,nonanginal,155,269,0,normal,148,0,0.8,1,0.0,normal,0
+67,Male,asymptomatic,125,254,1,normal,163,0,0.2,2,2.0,reversable,1
+62,Male,asymptomatic,120,267,0,normal,99,1,1.8,2,2.0,reversable,1
+65,Male,asymptomatic,110,248,0,left ventricular hypertrophy ,158,0,0.6,1,2.0,fixed,1
+44,Male,asymptomatic,110,197,0,left ventricular hypertrophy ,177,0,0.0,1,1.0,normal,1
+65,Female,nonanginal,160,360,0,left ventricular hypertrophy ,151,0,0.8,1,0.0,normal,0
+60,Male,asymptomatic,125,258,0,left ventricular hypertrophy ,141,1,2.8,2,1.0,reversable,1
+51,Female,nonanginal,140,308,0,left ventricular hypertrophy ,142,0,1.5,1,1.0,normal,0
+48,Male,nontypical,130,245,0,left ventricular hypertrophy ,180,0,0.2,2,0.0,normal,0
+58,Male,asymptomatic,150,270,0,left ventricular hypertrophy ,111,1,0.8,1,0.0,reversable,1
+45,Male,asymptomatic,104,208,0,left ventricular hypertrophy ,148,1,3.0,2,0.0,normal,0
+53,Female,asymptomatic,130,264,0,left ventricular hypertrophy ,143,0,0.4,2,0.0,normal,0
+39,Male,nonanginal,140,321,0,left ventricular hypertrophy ,182,0,0.0,1,0.0,normal,0
+68,Male,nonanginal,180,274,1,left ventricular hypertrophy ,150,1,1.6,2,0.0,reversable,1
+52,Male,nontypical,120,325,0,normal,172,0,0.2,1,0.0,normal,0
+44,Male,nonanginal,140,235,0,left ventricular hypertrophy ,180,0,0.0,1,0.0,normal,0
+47,Male,nonanginal,138,257,0,left ventricular hypertrophy ,156,0,0.0,1,0.0,normal,0
+53,Female,nonanginal,128,216,0,left ventricular hypertrophy ,115,0,0.0,1,0.0,,0
+53,Female,asymptomatic,138,234,0,left ventricular hypertrophy ,160,0,0.0,1,0.0,normal,0
+51,Female,nonanginal,130,256,0,left ventricular hypertrophy ,149,0,0.5,1,0.0,normal,0
+66,Male,asymptomatic,120,302,0,left ventricular hypertrophy ,151,0,0.4,2,0.0,normal,0
+62,Female,asymptomatic,160,164,0,left ventricular hypertrophy ,145,0,6.2,3,3.0,reversable,1
+62,Male,nonanginal,130,231,0,normal,146,0,1.8,2,3.0,reversable,0
+44,Female,nonanginal,108,141,0,normal,175,0,0.6,2,0.0,normal,0
+63,Female,nonanginal,135,252,0,left ventricular hypertrophy ,172,0,0.0,1,0.0,normal,0
+52,Male,asymptomatic,128,255,0,normal,161,1,0.0,1,1.0,reversable,1
+59,Male,asymptomatic,110,239,0,left ventricular hypertrophy ,142,1,1.2,2,1.0,reversable,1
+60,Female,asymptomatic,150,258,0,left ventricular hypertrophy ,157,0,2.6,2,2.0,reversable,1
+52,Male,nontypical,134,201,0,normal,158,0,0.8,1,1.0,normal,0
+48,Male,asymptomatic,122,222,0,left ventricular hypertrophy ,186,0,0.0,1,0.0,normal,0
+45,Male,asymptomatic,115,260,0,left ventricular hypertrophy ,185,0,0.0,1,0.0,normal,0
+34,Male,typical,118,182,0,left ventricular hypertrophy ,174,0,0.0,1,0.0,normal,0
+57,Female,asymptomatic,128,303,0,left ventricular hypertrophy ,159,0,0.0,1,1.0,normal,0
+71,Female,nonanginal,110,265,1,left ventricular hypertrophy ,130,0,0.0,1,1.0,normal,0
+49,Male,nonanginal,120,188,0,normal,139,0,2.0,2,3.0,reversable,1
+54,Male,nontypical,108,309,0,normal,156,0,0.0,1,0.0,reversable,0
+59,Male,asymptomatic,140,177,0,normal,162,1,0.0,1,1.0,reversable,1
+57,Male,nonanginal,128,229,0,left ventricular hypertrophy ,150,0,0.4,2,1.0,reversable,1
+61,Male,asymptomatic,120,260,0,normal,140,1,3.6,2,1.0,reversable,1
+39,Male,asymptomatic,118,219,0,normal,140,0,1.2,2,0.0,reversable,1
+61,Female,asymptomatic,145,307,0,left ventricular hypertrophy ,146,1,1.0,2,0.0,reversable,1
+56,Male,asymptomatic,125,249,1,left ventricular hypertrophy ,144,1,1.2,2,1.0,normal,1
+52,Male,typical,118,186,0,left ventricular hypertrophy ,190,0,0.0,2,0.0,fixed,0
+43,Female,asymptomatic,132,341,1,left ventricular hypertrophy ,136,1,3.0,2,0.0,reversable,1
+62,Female,nonanginal,130,263,0,normal,97,0,1.2,2,1.0,reversable,1
+41,Male,nontypical,135,203,0,normal,132,0,0.0,2,0.0,fixed,0
+58,Male,nonanginal,140,211,1,left ventricular hypertrophy ,165,0,0.0,1,0.0,normal,0
+35,Female,asymptomatic,138,183,0,normal,182,0,1.4,1,0.0,normal,0
+63,Male,asymptomatic,130,330,1,left ventricular hypertrophy ,132,1,1.8,1,3.0,reversable,1
+65,Male,asymptomatic,135,254,0,left ventricular hypertrophy ,127,0,2.8,2,1.0,reversable,1
+48,Male,asymptomatic,130,256,1,left ventricular hypertrophy ,150,1,0.0,1,2.0,reversable,1
+63,Female,asymptomatic,150,407,0,left ventricular hypertrophy ,154,0,4.0,2,3.0,reversable,1
+51,Male,nonanginal,100,222,0,normal,143,1,1.2,2,0.0,normal,0
+55,Male,asymptomatic,140,217,0,normal,111,1,5.6,3,0.0,reversable,1
+65,Male,typical,138,282,1,left ventricular hypertrophy ,174,0,1.4,2,1.0,normal,1
+45,Female,nontypical,130,234,0,left ventricular hypertrophy ,175,0,0.6,2,0.0,normal,0
+56,Female,asymptomatic,200,288,1,left ventricular hypertrophy ,133,1,4.0,3,2.0,reversable,1
+54,Male,asymptomatic,110,239,0,normal,126,1,2.8,2,1.0,reversable,1
+44,Male,nontypical,120,220,0,normal,170,0,0.0,1,0.0,normal,0
+62,Female,asymptomatic,124,209,0,normal,163,0,0.0,1,0.0,normal,0
+54,Male,nonanginal,120,258,0,left ventricular hypertrophy ,147,0,0.4,2,0.0,reversable,0
+51,Male,nonanginal,94,227,0,normal,154,1,0.0,1,1.0,reversable,0
+29,Male,nontypical,130,204,0,left ventricular hypertrophy ,202,0,0.0,1,0.0,normal,0
+51,Male,asymptomatic,140,261,0,left ventricular hypertrophy ,186,1,0.0,1,0.0,normal,0
+43,Female,nonanginal,122,213,0,normal,165,0,0.2,2,0.0,normal,0
+55,Female,nontypical,135,250,0,left ventricular hypertrophy ,161,0,1.4,2,0.0,normal,0
+70,Male,asymptomatic,145,174,0,normal,125,1,2.6,3,0.0,reversable,1
+62,Male,nontypical,120,281,0,left ventricular hypertrophy ,103,0,1.4,2,1.0,reversable,1
+35,Male,asymptomatic,120,198,0,normal,130,1,1.6,2,0.0,reversable,1
+51,Male,nonanginal,125,245,1,left ventricular hypertrophy ,166,0,2.4,2,0.0,normal,0
+59,Male,nontypical,140,221,0,normal,164,1,0.0,1,0.0,normal,0
+59,Male,typical,170,288,0,left ventricular hypertrophy ,159,0,0.2,2,0.0,reversable,1
+52,Male,nontypical,128,205,1,normal,184,0,0.0,1,0.0,normal,0
+64,Male,nonanginal,125,309,0,normal,131,1,1.8,2,0.0,reversable,1
+58,Male,nonanginal,105,240,0,left ventricular hypertrophy ,154,1,0.6,2,0.0,reversable,0
+47,Male,nonanginal,108,243,0,normal,152,0,0.0,1,0.0,normal,1
+57,Male,asymptomatic,165,289,1,left ventricular hypertrophy ,124,0,1.0,2,3.0,reversable,1
+41,Male,nonanginal,112,250,0,normal,179,0,0.0,1,0.0,normal,0
+45,Male,nontypical,128,308,0,left ventricular hypertrophy ,170,0,0.0,1,0.0,normal,0
+60,Female,nonanginal,102,318,0,normal,160,0,0.0,1,1.0,normal,0
+52,Male,typical,152,298,1,normal,178,0,1.2,2,0.0,reversable,0
+42,Female,asymptomatic,102,265,0,left ventricular hypertrophy ,122,0,0.6,2,0.0,normal,0
+67,Female,nonanginal,115,564,0,left ventricular hypertrophy ,160,0,1.6,2,0.0,reversable,0
+55,Male,asymptomatic,160,289,0,left ventricular hypertrophy ,145,1,0.8,2,1.0,reversable,1
+64,Male,asymptomatic,120,246,0,left ventricular hypertrophy ,96,1,2.2,3,1.0,normal,1
+70,Male,asymptomatic,130,322,0,left ventricular hypertrophy ,109,0,2.4,2,3.0,normal,1
+51,Male,asymptomatic,140,299,0,normal,173,1,1.6,1,0.0,reversable,1
+58,Male,asymptomatic,125,300,0,left ventricular hypertrophy ,171,0,0.0,1,2.0,reversable,1
+60,Male,asymptomatic,140,293,0,left ventricular hypertrophy ,170,0,1.2,2,2.0,reversable,1
+68,Male,nonanginal,118,277,0,normal,151,0,1.0,1,1.0,reversable,0
+46,Male,nontypical,101,197,1,normal,156,0,0.0,1,0.0,reversable,0
+77,Male,asymptomatic,125,304,0,left ventricular hypertrophy ,162,1,0.0,1,3.0,normal,1
+54,Female,nonanginal,110,214,0,normal,158,0,1.6,2,0.0,normal,0
+58,Female,asymptomatic,100,248,0,left ventricular hypertrophy ,122,0,1.0,2,0.0,normal,0
+48,Male,nonanginal,124,255,1,normal,175,0,0.0,1,2.0,normal,0
+57,Male,asymptomatic,132,207,0,normal,168,1,0.0,1,0.0,reversable,0
+52,Male,nonanginal,138,223,0,normal,169,0,0.0,1,,normal,0
+54,Female,nontypical,132,288,1,left ventricular hypertrophy ,159,1,0.0,1,1.0,normal,0
+35,Male,asymptomatic,126,282,0,left ventricular hypertrophy ,156,1,0.0,1,0.0,reversable,1
+45,Female,nontypical,112,160,0,normal,138,0,0.0,2,0.0,normal,0
+70,Male,nonanginal,160,269,0,normal,112,1,2.9,2,1.0,reversable,1
+53,Male,asymptomatic,142,226,0,left ventricular hypertrophy ,111,1,0.0,1,0.0,reversable,0
+59,Female,asymptomatic,174,249,0,normal,143,1,0.0,2,0.0,normal,1
+62,Female,asymptomatic,140,394,0,left ventricular hypertrophy ,157,0,1.2,2,0.0,normal,0
+64,Male,asymptomatic,145,212,0,left ventricular hypertrophy ,132,0,2.0,2,2.0,fixed,1
+57,Male,asymptomatic,152,274,0,normal,88,1,1.2,2,1.0,reversable,1
+52,Male,asymptomatic,108,233,1,normal,147,0,0.1,1,3.0,reversable,0
+56,Male,asymptomatic,132,184,0,left ventricular hypertrophy ,105,1,2.1,2,1.0,fixed,1
+43,Male,nonanginal,130,315,0,normal,162,0,1.9,1,1.0,normal,0
+53,Male,nonanginal,130,246,1,left ventricular hypertrophy ,173,0,0.0,1,3.0,normal,0
+48,Male,asymptomatic,124,274,0,left ventricular hypertrophy ,166,0,0.5,2,0.0,reversable,1
+56,Female,asymptomatic,134,409,0,left ventricular hypertrophy ,150,1,1.9,2,2.0,reversable,1
+42,Male,typical,148,244,0,left ventricular hypertrophy ,178,0,0.8,1,2.0,normal,0
+59,Male,typical,178,270,0,left ventricular hypertrophy ,145,0,4.2,3,0.0,reversable,0
+60,Female,asymptomatic,158,305,0,left ventricular hypertrophy ,161,0,0.0,1,0.0,normal,1
+63,Female,nontypical,140,195,0,normal,179,0,0.0,1,2.0,normal,0
+42,Male,nonanginal,120,240,1,normal,194,0,0.8,3,0.0,reversable,0
+66,Male,nontypical,160,246,0,normal,120,1,0.0,2,3.0,fixed,1
+54,Male,nontypical,192,283,0,left ventricular hypertrophy ,195,0,0.0,1,1.0,reversable,1
+69,Male,nonanginal,140,254,0,left ventricular hypertrophy ,146,0,2.0,2,3.0,reversable,1
+50,Male,nonanginal,129,196,0,normal,163,0,0.0,1,0.0,normal,0
+51,Male,asymptomatic,140,298,0,normal,122,1,4.2,2,3.0,reversable,1
+43,Male,asymptomatic,132,247,1,left ventricular hypertrophy ,143,1,0.1,2,,reversable,1
+62,Female,asymptomatic,138,294,1,normal,106,0,1.9,2,3.0,normal,1
+68,Female,nonanginal,120,211,0,left ventricular hypertrophy ,115,0,1.5,2,0.0,normal,0
+67,Male,asymptomatic,100,299,0,left ventricular hypertrophy ,125,1,0.9,2,2.0,normal,1
+69,Male,typical,160,234,1,left ventricular hypertrophy ,131,0,0.1,2,1.0,normal,0
+45,Female,asymptomatic,138,236,0,left ventricular hypertrophy ,152,1,0.2,2,0.0,normal,0
+50,Female,nontypical,120,244,0,normal,162,0,1.1,1,0.0,normal,0
+59,Male,typical,160,273,0,left ventricular hypertrophy ,125,0,0.0,1,0.0,normal,1
+50,Female,asymptomatic,110,254,0,left ventricular hypertrophy ,159,0,0.0,1,0.0,normal,0
+64,Female,asymptomatic,180,325,0,normal,154,1,0.0,1,0.0,normal,0
+57,Male,nonanginal,150,126,1,normal,173,0,0.2,1,1.0,reversable,0
+64,Female,nonanginal,140,313,0,normal,133,0,0.2,1,0.0,reversable,0
+43,Male,asymptomatic,110,211,0,normal,161,0,0.0,1,0.0,reversable,0
+45,Male,asymptomatic,142,309,0,left ventricular hypertrophy ,147,1,0.0,2,3.0,reversable,1
+58,Male,asymptomatic,128,259,0,left ventricular hypertrophy ,130,1,3.0,2,2.0,reversable,1
+50,Male,asymptomatic,144,200,0,left ventricular hypertrophy ,126,1,0.9,2,0.0,reversable,1
+55,Male,nontypical,130,262,0,normal,155,0,0.0,1,0.0,normal,0
+62,Female,asymptomatic,150,244,0,normal,154,1,1.4,2,0.0,normal,1
+37,Female,nonanginal,120,215,0,normal,170,0,0.0,1,0.0,normal,0
+38,Male,typical,120,231,0,normal,182,1,3.8,2,0.0,reversable,1
+41,Male,nonanginal,130,214,0,left ventricular hypertrophy ,168,0,2.0,2,0.0,normal,0
+66,Female,asymptomatic,178,228,1,normal,165,1,1.0,2,2.0,reversable,1
+52,Male,asymptomatic,112,230,0,normal,160,0,0.0,1,1.0,normal,1
+56,Male,typical,120,193,0,left ventricular hypertrophy ,162,0,1.9,2,0.0,reversable,0
+46,Female,nontypical,105,204,0,normal,172,0,0.0,1,0.0,normal,0
+46,Female,asymptomatic,138,243,0,left ventricular hypertrophy ,152,1,0.0,2,0.0,normal,0
+64,Female,asymptomatic,130,303,0,normal,122,0,2.0,2,2.0,normal,0
+59,Male,asymptomatic,138,271,0,left ventricular hypertrophy ,182,0,0.0,1,0.0,normal,0
+41,Female,nonanginal,112,268,0,left ventricular hypertrophy ,172,1,0.0,1,0.0,normal,0
+54,Female,nonanginal,108,267,0,left ventricular hypertrophy ,167,0,0.0,1,0.0,normal,0
+39,Female,nonanginal,94,199,0,normal,179,0,0.0,1,0.0,normal,0
+53,Male,asymptomatic,123,282,0,normal,95,1,2.0,2,2.0,reversable,1
+63,Female,asymptomatic,108,269,0,normal,169,1,1.8,2,2.0,normal,1
+34,Female,nontypical,118,210,0,normal,192,0,0.7,1,0.0,normal,0
+47,Male,asymptomatic,112,204,0,normal,143,0,0.1,1,0.0,normal,0
+67,Female,nonanginal,152,277,0,normal,172,0,0.0,1,1.0,normal,0
+54,Male,asymptomatic,110,206,0,left ventricular hypertrophy ,108,1,0.0,2,1.0,normal,1
+66,Male,asymptomatic,112,212,0,left ventricular hypertrophy ,132,1,0.1,1,1.0,normal,1
+52,Female,nonanginal,136,196,0,left ventricular hypertrophy ,169,0,0.1,2,0.0,normal,0
+55,Female,asymptomatic,180,327,0,ST-T wave abnormality,117,1,3.4,2,0.0,normal,1
+49,Male,nonanginal,118,149,0,left ventricular hypertrophy ,126,0,0.8,1,3.0,normal,1
+74,Female,nontypical,120,269,0,left ventricular hypertrophy ,121,1,0.2,1,1.0,normal,0
+54,Female,nonanginal,160,201,0,normal,163,0,0.0,1,1.0,normal,0
+54,Male,asymptomatic,122,286,0,left ventricular hypertrophy ,116,1,3.2,2,2.0,normal,1
+56,Male,asymptomatic,130,283,1,left ventricular hypertrophy ,103,1,1.6,3,0.0,reversable,1
+46,Male,asymptomatic,120,249,0,left ventricular hypertrophy ,144,0,0.8,1,0.0,reversable,1
+49,Female,nontypical,134,271,0,normal,162,0,0.0,2,0.0,normal,0
+42,Male,nontypical,120,295,0,normal,162,0,0.0,1,0.0,normal,0
+41,Male,nontypical,110,235,0,normal,153,0,0.0,1,0.0,normal,0
+41,Female,nontypical,126,306,0,normal,163,0,0.0,1,0.0,normal,0
+49,Female,asymptomatic,130,269,0,normal,163,0,0.0,1,0.0,normal,0
+61,Male,typical,134,234,0,normal,145,0,2.6,2,2.0,normal,1
+60,Female,nonanginal,120,178,1,normal,96,0,0.0,1,0.0,normal,0
+67,Male,asymptomatic,120,237,0,normal,71,0,1.0,2,0.0,normal,1
+58,Male,asymptomatic,100,234,0,normal,156,0,0.1,1,1.0,reversable,1
+47,Male,asymptomatic,110,275,0,left ventricular hypertrophy ,118,1,1.0,2,1.0,normal,1
+52,Male,asymptomatic,125,212,0,normal,168,0,1.0,1,2.0,reversable,1
+62,Male,nontypical,128,208,1,left ventricular hypertrophy ,140,0,0.0,1,0.0,normal,0
+57,Male,asymptomatic,110,201,0,normal,126,1,1.5,2,0.0,fixed,0
+58,Male,asymptomatic,146,218,0,normal,105,0,2.0,2,1.0,reversable,1
+64,Male,asymptomatic,128,263,0,normal,105,1,0.2,2,1.0,reversable,0
+51,Female,nonanginal,120,295,0,left ventricular hypertrophy ,157,0,0.6,1,0.0,normal,0
+43,Male,asymptomatic,115,303,0,normal,181,0,1.2,2,0.0,normal,0
+42,Female,nonanginal,120,209,0,normal,173,0,0.0,2,0.0,normal,0
+67,Female,asymptomatic,106,223,0,normal,142,0,0.3,1,2.0,normal,0
+76,Female,nonanginal,140,197,0,ST-T wave abnormality,116,0,1.1,2,0.0,normal,0
+70,Male,nontypical,156,245,0,left ventricular hypertrophy ,143,0,0.0,1,0.0,normal,0
+57,Male,nontypical,124,261,0,normal,141,0,0.3,1,0.0,reversable,1
+44,Female,nonanginal,118,242,0,normal,149,0,0.3,2,1.0,normal,0
+58,Female,nontypical,136,319,1,left ventricular hypertrophy ,152,0,0.0,1,2.0,normal,1
+60,Female,typical,150,240,0,normal,171,0,0.9,1,0.0,normal,0
+44,Male,nonanginal,120,226,0,normal,169,0,0.0,1,0.0,normal,0
+61,Male,asymptomatic,138,166,0,left ventricular hypertrophy ,125,1,3.6,2,1.0,normal,1
+42,Male,asymptomatic,136,315,0,normal,125,1,1.8,2,0.0,fixed,1
+52,Male,asymptomatic,128,204,1,normal,156,1,1.0,2,0.0,,1
+59,Male,nonanginal,126,218,1,normal,134,0,2.2,2,1.0,fixed,1
+40,Male,asymptomatic,152,223,0,normal,181,0,0.0,1,0.0,reversable,1
+42,Male,nonanginal,130,180,0,normal,150,0,0.0,1,0.0,normal,0
+61,Male,asymptomatic,140,207,0,left ventricular hypertrophy ,138,1,1.9,1,1.0,reversable,1
+66,Male,asymptomatic,160,228,0,left ventricular hypertrophy ,138,0,2.3,1,0.0,fixed,0
+46,Male,asymptomatic,140,311,0,normal,120,1,1.8,2,2.0,reversable,1
+71,Female,asymptomatic,112,149,0,normal,125,0,1.6,2,0.0,normal,0
+59,Male,typical,134,204,0,normal,162,0,0.8,1,2.0,normal,1
+64,Male,typical,170,227,0,left ventricular hypertrophy ,155,0,0.6,2,0.0,reversable,0
+66,Female,nonanginal,146,278,0,left ventricular hypertrophy ,152,0,0.0,2,1.0,normal,0
+39,Female,nonanginal,138,220,0,normal,152,0,0.0,2,0.0,normal,0
+57,Male,nontypical,154,232,0,left ventricular hypertrophy ,164,0,0.0,1,1.0,normal,1
+58,Female,asymptomatic,130,197,0,normal,131,0,0.6,2,0.0,normal,0
+57,Male,asymptomatic,110,335,0,normal,143,1,3.0,2,1.0,reversable,1
+47,Male,nonanginal,130,253,0,normal,179,0,0.0,1,0.0,normal,0
+55,Female,asymptomatic,128,205,0,ST-T wave abnormality,130,1,2.0,2,1.0,reversable,1
+35,Male,nontypical,122,192,0,normal,174,0,0.0,1,0.0,normal,0
+61,Male,asymptomatic,148,203,0,normal,161,0,0.0,1,1.0,reversable,1
+58,Male,asymptomatic,114,318,0,ST-T wave abnormality,140,0,4.4,3,3.0,fixed,1
+58,Female,asymptomatic,170,225,1,left ventricular hypertrophy ,146,1,2.8,2,2.0,fixed,1
+58,Male,nontypical,125,220,0,normal,144,0,0.4,2,,reversable,0
+56,Male,nontypical,130,221,0,left ventricular hypertrophy ,163,0,0.0,1,0.0,reversable,0
+56,Male,nontypical,120,240,0,normal,169,0,0.0,3,0.0,normal,0
+67,Male,nonanginal,152,212,0,left ventricular hypertrophy ,150,0,0.8,2,0.0,reversable,1
+55,Female,nontypical,132,342,0,normal,166,0,1.2,1,0.0,normal,0
+44,Male,asymptomatic,120,169,0,normal,144,1,2.8,3,0.0,fixed,1
+63,Male,asymptomatic,140,187,0,left ventricular hypertrophy ,144,1,4.0,1,2.0,reversable,1
+63,Female,asymptomatic,124,197,0,normal,136,1,0.0,2,0.0,normal,1
+41,Male,nontypical,120,157,0,normal,182,0,0.0,1,0.0,normal,0
+59,Male,asymptomatic,164,176,1,left ventricular hypertrophy ,90,0,1.0,2,2.0,fixed,1
+57,Female,asymptomatic,140,241,0,normal,123,1,0.2,2,0.0,reversable,1
+45,Male,typical,110,264,0,normal,132,0,1.2,2,0.0,reversable,1
+68,Male,asymptomatic,144,193,1,normal,141,0,3.4,2,2.0,reversable,1
+57,Male,asymptomatic,130,131,0,normal,115,1,1.2,2,1.0,reversable,1
+57,Female,nontypical,130,236,0,left ventricular hypertrophy ,174,0,0.0,2,1.0,normal,1
+38,Male,nonanginal,138,175,0,normal,173,0,0.0,1,,normal,0

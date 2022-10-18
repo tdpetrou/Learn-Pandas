@@ -1,4 +1,4 @@
-INSTNM,CITY,STABBR,HBCU,MENONLY,WOMENONLY,RELAFFIL,SATVRMID,SATMTMID,DISTANCEONLY,UGDS,UGDS_WHITE,UGDS_BLACK,UGDS_HISP,UGDS_ASIAN,UGDS_AIAN,UGDS_NHPI,UGDS_2MOR,UGDS_NRA,UGDS_UNKN,PPTUG_EF,CURROPER,PCTPELL,PCTFLOAN,UG25ABV,MD_EARN_WNE_P10,GRAD_DEBT_MDN_SUPP
+instnm,city,stabbr,hbcu,menonly,womenonly,relaffil,satvrmid,satmtmid,distanceonly,ugds,ugds_white,ugds_black,ugds_hisp,ugds_asian,ugds_aian,ugds_nhpi,ugds_2mor,ugds_nra,ugds_unkn,pptug_ef,curroper,pctpell,pctfloan,ug25abv,md_earn_wne_p10,grad_debt_mdn_supp
 Alabama A & M University,Normal,AL,1.0,0.0,0.0,0,424.0,420.0,0.0,4206.0,0.0333,0.9353,0.0055,0.0019,0.0024,0.0019,0.0,0.0059,0.0138,0.0656,1,0.7356,0.8284,0.1049,30300,33888
 University of Alabama at Birmingham,Birmingham,AL,0.0,0.0,0.0,0,570.0,565.0,0.0,11383.0,0.5922,0.26,0.0283,0.0518,0.0022,0.0007,0.0368,0.0179,0.01,0.2607,1,0.34600000000000003,0.5214,0.2422,39700,21941.5
 Amridge University,Montgomery,AL,0.0,0.0,0.0,1,,,1.0,291.0,0.299,0.4192,0.0069,0.0034,0.0,0.0,0.0,0.0,0.2715,0.4536,1,0.6801,0.7795,0.8540000000000001,40100,23370
@@ -6240,7 +6240,7 @@ San Diego Culinary Institute,La Mesa,CA,0.0,0.0,0.0,0,,,0.0,45.0,0.5333,0.0667,0
 Beyond 21st Century Beauty Academy,Santa Fe Springs,CA,0.0,0.0,0.0,0,,,0.0,50.0,0.02,0.02,0.92,0.02,0.02,0.0,0.0,0.0,0.0,0.88,1,0.7027,0.3784,0.3478,,PrivacySuppressed
 Academy for Jewish Religion-California,Los Angeles,CA,0.0,0.0,0.0,1,,,0.0,,,,,,,,,,,,1,,,,,PrivacySuppressed
 Angeles College,Los Angeles,CA,0.0,0.0,0.0,0,,,0.0,94.0,0.0532,0.11699999999999999,0.1915,0.617,0.0106,0.0,0.0,0.0,0.0106,0.3404,1,0.5023,0.5302,0.6828,,13626
-Angeles Institute,ARTESIA,CA,0.0,0.0,0.0,0,,,0.0,114.0,0.0175,0.2193,0.386,0.3158,0.0,0.0263,0.0175,0.0088,0.0088,0.0,1,0.6275,0.8138,0.5429,,16850
+Angeles Institute,Artesia,CA,0.0,0.0,0.0,0,,,0.0,114.0,0.0175,0.2193,0.386,0.3158,0.0,0.0263,0.0175,0.0088,0.0088,0.0,1,0.6275,0.8138,0.5429,,16850
 Paul Mitchell the School-Temecula,Temecula,CA,0.0,0.0,0.0,0,,,0.0,277.0,0.4368,0.0361,0.3646,0.0108,0.0036,0.0,0.14800000000000002,0.0,0.0,0.0,1,0.6699,0.7084,0.2618,,17666
 European Academy of Cosmetology and Hairdressing,Guilford,CT,0.0,0.0,0.0,0,,,0.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,1,0.5333,1.0,0.4737,,PrivacySuppressed
 International Institute of Cosmetology,Wethersfield,CT,0.0,0.0,0.0,0,,,0.0,147.0,0.7891,0.0544,0.0952,0.0,0.0068,0.0,0.0408,0.0068,0.0068,0.1565,1,0.3529,0.6203,0.2045,,9833

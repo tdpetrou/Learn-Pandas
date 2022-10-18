@@ -1,0 +1,261 @@
+Year,Race,Age Group,Gender,Gender Percent,Birth Rate
+2000,White,18-19,male,51.5,29.6125
+2000,White,18-19,female,48.5,27.8875
+2001,White,18-19,male,51.3,28.0611
+2001,White,18-19,female,48.7,26.638900000000003
+2002,White,18-19,male,51.1,26.572000000000003
+2002,White,18-19,female,48.9,25.427999999999997
+2003,White,18-19,male,51.4,25.7
+2003,White,18-19,female,48.6,24.3
+2004,White,18-19,male,51.2,24.883200000000002
+2004,White,18-19,female,48.8,23.7168
+2005,White,18-19,male,51.6,24.768
+2005,White,18-19,female,48.4,23.232
+2006,White,18-19,male,51.4,25.391599999999997
+2006,White,18-19,female,48.6,24.0084
+2007,White,18-19,male,51.3,25.8552
+2007,White,18-19,female,48.7,24.5448
+2008,White,18-19,male,51.2,24.883200000000002
+2008,White,18-19,female,48.8,23.7168
+2009,White,18-19,male,51.4,23.746800000000004
+2009,White,18-19,female,48.6,22.453200000000002
+2010,White,18-19,male,51.6,21.93
+2010,White,18-19,female,48.4,20.57
+2011,White,18-19,male,51.3,20.4687
+2011,White,18-19,female,48.7,19.4313
+2012,White,18-19,male,51.4,19.4806
+2012,White,18-19,female,48.6,18.4194
+2000,Black,18-19,male,51.0,62.169000000000004
+2000,Black,18-19,female,49.0,59.731
+2001,Black,18-19,male,50.8,58.8772
+2001,Black,18-19,female,49.2,57.022800000000004
+2002,Black,18-19,male,51.1,55.954499999999996
+2002,Black,18-19,female,48.9,53.545500000000004
+2003,Black,18-19,male,51.4,53.147600000000004
+2003,Black,18-19,female,48.6,50.25240000000001
+2004,Black,18-19,male,51.2,52.0192
+2004,Black,18-19,female,48.8,49.58079999999999
+2005,Black,18-19,male,50.7,50.8014
+2005,Black,18-19,female,49.3,49.398599999999995
+2006,Black,18-19,male,51.2,53.8112
+2006,Black,18-19,female,48.8,51.288799999999995
+2007,Black,18-19,male,50.8,53.4416
+2007,Black,18-19,female,49.2,51.7584
+2008,Black,18-19,male,50.9,50.9
+2008,Black,18-19,female,49.1,49.1
+2009,Black,18-19,male,51.0,47.685
+2009,Black,18-19,female,49.0,45.815
+2010,Black,18-19,male,51.1,43.7416
+2010,Black,18-19,female,48.9,41.85839999999999
+2011,Black,18-19,male,51.0,40.187999999999995
+2011,Black,18-19,female,49.0,38.611999999999995
+2012,Black,18-19,male,51.1,37.8651
+2012,Black,18-19,female,48.9,36.234899999999996
+2000,Hispanic,18-19,male,51.2,67.8912
+2000,Hispanic,18-19,female,48.8,64.7088
+2001,Hispanic,18-19,male,51.1,67.09430000000002
+2001,Hispanic,18-19,female,48.9,64.20570000000001
+2002,Hispanic,18-19,male,51.1,64.9481
+2002,Hispanic,18-19,female,48.9,62.1519
+2003,Hispanic,18-19,male,51.1,63.7728
+2003,Hispanic,18-19,female,48.9,61.02719999999999
+2004,Hispanic,18-19,male,51.3,64.0224
+2004,Hispanic,18-19,female,48.7,60.7776
+2005,Hispanic,18-19,male,51.1,63.568400000000004
+2005,Hispanic,18-19,female,48.9,60.8316
+2006,Hispanic,18-19,male,50.9,65.50829999999999
+2006,Hispanic,18-19,female,49.1,63.1917
+2007,Hispanic,18-19,male,51.3,63.9711
+2007,Hispanic,18-19,female,48.7,60.7289
+2008,Hispanic,18-19,male,51.5,58.71
+2008,Hispanic,18-19,female,48.5,55.29
+2009,Hispanic,18-19,male,51.5,53.1995
+2009,Hispanic,18-19,female,48.5,50.100500000000004
+2010,Hispanic,18-19,male,51.0,46.257
+2010,Hispanic,18-19,female,49.0,44.443000000000005
+2011,Hispanic,18-19,male,51.0,41.565
+2011,Hispanic,18-19,female,49.0,39.935
+2012,Hispanic,18-19,male,51.1,39.4492
+2012,Hispanic,18-19,female,48.9,37.7508
+2000,American Indian/Alaska Native,18-19,male,50.0,48.55
+2000,American Indian/Alaska Native,18-19,female,50.0,48.55
+2001,American Indian/Alaska Native,18-19,male,49.5,45.886500000000005
+2001,American Indian/Alaska Native,18-19,female,50.5,46.813500000000005
+2002,American Indian/Alaska Native,18-19,male,51.0,43.503
+2002,American Indian/Alaska Native,18-19,female,49.0,41.797
+2003,American Indian/Alaska Native,18-19,male,50.9,41.78889999999999
+2003,American Indian/Alaska Native,18-19,female,49.1,40.311099999999996
+2004,American Indian/Alaska Native,18-19,male,51.3,40.9887
+2004,American Indian/Alaska Native,18-19,female,48.7,38.911300000000004
+2005,American Indian/Alaska Native,18-19,male,52.1,40.638000000000005
+2005,American Indian/Alaska Native,18-19,female,47.9,37.361999999999995
+2006,American Indian/Alaska Native,18-19,male,51.3,41.4504
+2006,American Indian/Alaska Native,18-19,female,48.7,39.3496
+2007,American Indian/Alaska Native,18-19,male,50.7,43.7541
+2007,American Indian/Alaska Native,18-19,female,49.3,42.54589999999999
+2008,American Indian/Alaska Native,18-19,male,50.6,40.5812
+2008,American Indian/Alaska Native,18-19,female,49.4,39.6188
+2009,American Indian/Alaska Native,18-19,male,51.3,37.7055
+2009,American Indian/Alaska Native,18-19,female,48.7,35.7945
+2010,American Indian/Alaska Native,18-19,male,50.5,33.3805
+2010,American Indian/Alaska Native,18-19,female,49.5,32.7195
+2011,American Indian/Alaska Native,18-19,male,51.4,31.662399999999998
+2011,American Indian/Alaska Native,18-19,female,48.6,29.937600000000003
+2012,American Indian/Alaska Native,18-19,male,51.7,31.278500000000005
+2012,American Indian/Alaska Native,18-19,female,48.4,29.281999999999996
+2000,Asian and Pacific Islander,18-19,male,51.1,16.6586
+2000,Asian and Pacific Islander,18-19,female,49.9,16.2674
+2001,Asian and Pacific Islander,18-19,male,51.8,16.576
+2001,Asian and Pacific Islander,18-19,female,48.2,15.424000000000001
+2002,Asian and Pacific Islander,18-19,male,50.9,15.2191
+2002,Asian and Pacific Islander,18-19,female,49.1,14.6809
+2003,Asian and Pacific Islander,18-19,male,52.4,14.3052
+2003,Asian and Pacific Islander,18-19,female,47.6,12.9948
+2004,Asian and Pacific Islander,18-19,male,50.2,13.353200000000001
+2004,Asian and Pacific Islander,18-19,female,49.8,13.2468
+2005,Asian and Pacific Islander,18-19,male,51.1,13.4904
+2005,Asian and Pacific Islander,18-19,female,48.9,12.909599999999998
+2006,Asian and Pacific Islander,18-19,male,51.2,13.0048
+2006,Asian and Pacific Islander,18-19,female,48.8,12.395199999999997
+2007,Asian and Pacific Islander,18-19,male,50.7,12.6243
+2007,Asian and Pacific Islander,18-19,female,49.3,12.275699999999999
+2008,Asian and Pacific Islander,18-19,male,52.0,11.96
+2008,Asian and Pacific Islander,18-19,female,48.0,11.04
+2009,Asian and Pacific Islander,18-19,male,52.5,10.9725
+2009,Asian and Pacific Islander,18-19,female,47.5,9.927499999999998
+2010,Asian and Pacific Islander,18-19,male,51.4,9.611799999999999
+2010,Asian and Pacific Islander,18-19,female,48.6,9.088199999999999
+2011,Asian and Pacific Islander,18-19,male,52.0,9.412
+2011,Asian and Pacific Islander,18-19,female,48.0,8.688
+2012,Asian and Pacific Islander,18-19,male,50.1,8.8677
+2012,Asian and Pacific Islander,18-19,female,49.9,8.832299999999998
+2000,White,20-24,male,51.2,46.6944
+2000,White,20-24,female,48.8,44.505599999999994
+2001,White,20-24,male,51.2,44.544000000000004
+2001,White,20-24,female,48.8,42.455999999999996
+2002,White,20-24,male,51.4,43.5358
+2002,White,20-24,female,48.6,41.1642
+2003,White,20-24,male,51.3,43.14329999999999
+2003,White,20-24,female,48.7,40.9567
+2004,White,20-24,male,51.2,42.496
+2004,White,20-24,female,48.8,40.504
+2005,White,20-24,male,51.4,42.507799999999996
+2005,White,20-24,female,48.6,40.1922
+2006,White,20-24,male,51.2,43.5712
+2006,White,20-24,female,48.8,41.52879999999999
+2007,White,20-24,male,51.4,43.74139999999999
+2007,White,20-24,female,48.6,41.358599999999996
+2008,White,20-24,male,51.2,42.3936
+2008,White,20-24,female,48.8,40.40639999999999
+2009,White,20-24,male,51.2,40.5504
+2009,White,20-24,female,48.8,38.6496
+2010,White,20-24,male,51.3,38.4237
+2010,White,20-24,female,48.7,36.47630000000001
+2011,White,20-24,male,51.4,36.905199999999994
+2011,White,20-24,female,48.6,34.894800000000004
+2012,White,20-24,male,51.3,36.0126
+2012,White,20-24,female,48.7,34.187400000000004
+2000,Black,20-24,male,50.7,73.71780000000001
+2000,Black,20-24,female,49.3,71.68220000000001
+2001,Black,20-24,male,50.7,69.61110000000001
+2001,Black,20-24,female,49.3,67.6889
+2002,Black,20-24,male,50.9,66.8826
+2002,Black,20-24,female,49.1,64.51740000000001
+2003,Black,20-24,male,50.8,65.4304
+2003,Black,20-24,female,49.2,63.36960000000001
+2004,Black,20-24,male,51.0,65.229
+2004,Black,20-24,female,49.0,62.67100000000001
+2005,Black,20-24,male,50.7,64.84530000000001
+2005,Black,20-24,female,49.3,63.054700000000004
+2006,Black,20-24,male,51.1,68.6784
+2006,Black,20-24,female,48.9,65.7216
+2007,Black,20-24,male,50.9,68.4605
+2007,Black,20-24,female,49.1,66.0395
+2008,Black,20-24,male,50.7,66.7212
+2008,Black,20-24,female,49.3,64.8788
+2009,Black,20-24,male,51.0,64.209
+2009,Black,20-24,female,49.0,61.691
+2010,Black,20-24,male,51.0,60.894000000000005
+2010,Black,20-24,female,49.0,58.506
+2011,Black,20-24,male,51.0,57.273
+2011,Black,20-24,female,49.0,55.027
+2012,Black,20-24,male,50.8,55.372
+2012,Black,20-24,female,49.2,53.628
+2000,Hispanic,20-24,male,51.1,82.4243
+2000,Hispanic,20-24,female,48.9,78.87570000000001
+2001,Hispanic,20-24,male,50.9,81.6945
+2001,Hispanic,20-24,female,49.1,78.8055
+2002,Hispanic,20-24,male,50.9,80.931
+2002,Hispanic,20-24,female,49.1,78.069
+2003,Hispanic,20-24,male,51.1,81.3001
+2003,Hispanic,20-24,female,48.9,77.7999
+2004,Hispanic,20-24,male,51.0,81.192
+2004,Hispanic,20-24,female,49.0,78.008
+2005,Hispanic,20-24,male,51.2,82.4832
+2005,Hispanic,20-24,female,48.8,78.6168
+2006,Hispanic,20-24,male,51.2,85.3504
+2006,Hispanic,20-24,female,48.8,81.3496
+2007,Hispanic,20-24,male,51.0,83.946
+2007,Hispanic,20-24,female,49.0,80.654
+2008,Hispanic,20-24,male,51.1,78.74510000000001
+2008,Hispanic,20-24,female,48.9,75.3549
+2009,Hispanic,20-24,male,51.1,71.5911
+2009,Hispanic,20-24,female,48.9,68.5089
+2010,Hispanic,20-24,male,50.9,64.1849
+2010,Hispanic,20-24,female,49.1,61.9151
+2011,Hispanic,20-24,male,51.0,59.16
+2011,Hispanic,20-24,female,49.0,56.84
+2012,Hispanic,20-24,male,50.9,56.753499999999995
+2012,Hispanic,20-24,female,49.1,54.746500000000005
+2000,American Indian/Alaska Native,20-24,male,51.4,60.2408
+2000,American Indian/Alaska Native,20-24,female,48.6,56.9592
+2001,American Indian/Alaska Native,20-24,male,50.7,57.6966
+2001,American Indian/Alaska Native,20-24,female,49.3,56.10339999999999
+2002,American Indian/Alaska Native,20-24,male,50.3,55.6821
+2002,American Indian/Alaska Native,20-24,female,49.7,55.01790000000001
+2003,American Indian/Alaska Native,20-24,male,51.0,54.57
+2003,American Indian/Alaska Native,20-24,female,49.0,52.43
+2004,American Indian/Alaska Native,20-24,male,50.5,53.227000000000004
+2004,American Indian/Alaska Native,20-24,female,49.5,52.173
+2005,American Indian/Alaska Native,20-24,male,50.1,51.55290000000001
+2005,American Indian/Alaska Native,20-24,female,49.9,51.3471
+2006,American Indian/Alaska Native,20-24,male,50.9,54.3612
+2006,American Indian/Alaska Native,20-24,female,49.1,52.4388
+2007,American Indian/Alaska Native,20-24,male,51.2,54.1696
+2007,American Indian/Alaska Native,20-24,female,48.8,51.6304
+2008,American Indian/Alaska Native,20-24,male,51.1,52.4797
+2008,American Indian/Alaska Native,20-24,female,48.9,50.220299999999995
+2009,American Indian/Alaska Native,20-24,male,50.8,48.9204
+2009,American Indian/Alaska Native,20-24,female,49.2,47.3796
+2010,American Indian/Alaska Native,20-24,male,50.9,46.318999999999996
+2010,American Indian/Alaska Native,20-24,female,49.1,44.681000000000004
+2011,American Indian/Alaska Native,20-24,male,50.8,43.992799999999995
+2011,American Indian/Alaska Native,20-24,female,49.2,42.607200000000006
+2012,American Indian/Alaska Native,20-24,male,50.7,41.42190000000001
+2012,American Indian/Alaska Native,20-24,female,49.3,40.2781
+2000,Asian and Pacific Islander,20-24,male,51.8,31.235399999999995
+2000,Asian and Pacific Islander,20-24,female,48.2,29.0646
+2001,Asian and Pacific Islander,20-24,male,52.0,29.12
+2001,Asian and Pacific Islander,20-24,female,48.0,26.88
+2002,Asian and Pacific Islander,20-24,male,51.3,28.471499999999995
+2002,Asian and Pacific Islander,20-24,female,48.7,27.028500000000005
+2003,Asian and Pacific Islander,20-24,male,51.0,27.692999999999998
+2003,Asian and Pacific Islander,20-24,female,49.0,26.607
+2004,Asian and Pacific Islander,20-24,male,51.3,27.342899999999997
+2004,Asian and Pacific Islander,20-24,female,48.7,25.9571
+2005,Asian and Pacific Islander,20-24,male,51.3,27.1377
+2005,Asian and Pacific Islander,20-24,female,48.7,25.7623
+2006,Asian and Pacific Islander,20-24,male,51.3,27.599399999999996
+2006,Asian and Pacific Islander,20-24,female,48.7,26.200599999999998
+2007,Asian and Pacific Islander,20-24,male,50.7,26.972400000000004
+2007,Asian and Pacific Islander,20-24,female,49.3,26.2276
+2008,Asian and Pacific Islander,20-24,male,51.2,25.8048
+2008,Asian and Pacific Islander,20-24,female,48.8,24.5952
+2009,Asian and Pacific Islander,20-24,male,51.3,23.803199999999997
+2009,Asian and Pacific Islander,20-24,female,48.7,22.596799999999998
+2010,Asian and Pacific Islander,20-24,male,51.6,21.981600000000004
+2010,Asian and Pacific Islander,20-24,female,48.4,20.6184
+2011,Asian and Pacific Islander,20-24,male,51.1,21.4109
+2011,Asian and Pacific Islander,20-24,female,48.9,20.489099999999997
+2012,Asian and Pacific Islander,20-24,male,51.4,21.279600000000002
+2012,Asian and Pacific Islander,20-24,female,48.6,20.1204

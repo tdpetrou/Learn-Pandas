@@ -1,0 +1,6 @@
+Name,Attributes
+angle,"angleA=90, angleB=0, rad=0.0"
+angle3,"angleA=90, angleB=0"
+arc,"angleA=0, angleB=0, armA=None, armB=None, rad=0.0"
+arc3,rad=0.0
+bar,"armA=0.0, armB=0.0, fraction=0.3, angle=None"

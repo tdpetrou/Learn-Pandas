@@ -1,0 +1,15 @@
+column name,description
+age,age in years
+sex,Male or Female
+chest_pain,"typical, asymptomatic, nonanginal, nontypical"
+rest_bp,resting blood pressure (in mm Hg on admission to the hospital)
+chol,serum cholestoral in mg/dl
+fbs,(fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+rest_ecg,"resting electrocardiographic results (0, 1, 2)"
+max_hr,maximum heart rate achieved
+exang,exercise induced angina (1 = yes; 0 = no)
+old_peak,ST depression induced by exercise relative to rest
+slope,the slope of the peak exercise ST segment
+ca,number of major vessels (0-3) colored by flourosopy
+thal,"normal, fixed defect, reversable defect"
+disease,"1 = yes, 0 = no"
