@@ -1,0 +1,17 @@
+figure.dpi: 140
+figure.figsize: 6,3
+axes.axisbelow: True
+axes.facecolor: .9
+axes.grid: True
+axes.spines.left: False
+axes.spines.bottom: False
+axes.spines.right: False
+axes.spines.top: False
+xtick.major.size: 0
+ytick.major.size: 0
+xtick.minor.size: 0
+ytick.minor.size: 0
+xtick.labelsize: smaller
+ytick.labelsize: smaller
+legend.fontsize: smaller
+axes.titlesize: 10
